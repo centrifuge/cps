@@ -3,7 +3,7 @@ cp: 6
 title: Add a block reward and improve Collator cycle
 authors: Governance and Coordination Group (ImdioR, Orhan)
 advisors: Cassidy, Miguel
-proposal-type: CP-2
+proposal-type: CP-4
 date-proposed: 2022-11-16
 status: polling
 ---
