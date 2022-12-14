@@ -246,7 +246,7 @@ A CP-4 can therefore be a wide range of proposal types, to improve the protocol 
 ##### Technical CP-4
 These can be proposals for the roadmap and technical features and functionality of the Centrifuge protocol, such as adjustment of fees, burning of tokens, liquidity pairing with another protocol, opening HRMP channels between other parachains etc. If passed, these proposals will typically be part of a Runtime Upgrade (CP-3) afterwards, but not always.
 
-**Non-technical CP-4**
+##### Non-technical CP-4
 These are proposals that do not require a change on the blockchain, and hence do not require an on-chain vote. This could be co-marketing partnerships, changes to the Governance process, incentivising users with NFTs for participation in Governance, creating events etc.
 
 **GOVERNANCE PROCESS:**
