@@ -118,7 +118,7 @@ It is very important that the CP is submitted correctly. In the event of an inco
 
 Please contact the Governance & Coordination Group on the Forum or Discord ([Rhano](https://gov.centrifuge.io/u/Rhano) or [ImdioR](https://gov.centrifuge.io/u/imdior)), if you have any doubts or questions, and they will assist you.
 
-#### **CP-1 (MRF) Mandate Request with Funding**
+#### CP-1 (MRF) Mandate Request with Funding
 
 A mandate can be interpreted as an entity (group or individual) being given the authority by the DAO to pursue the stated objectives. The entity takes on the responsibility of fulfilling the mandate and accepts accountability to the DAO over this. 
 
@@ -142,13 +142,13 @@ The next step is the funding process, which will be an on-chain Treasury Proposa
 | --- | --- | :---: |
 |5|Create an on-chain Treasury proposal|-|
 
-#### **CP-1.1 (MR) Mandate Request without Funding**
+#### CP-1.1 (MR) Mandate Request without Funding
 
 Same as CP-1, just without funding (i.e. no step 5).
 
 A group can make a proposal for seeking a mandate for a specific project/work stream and then afterwards apply for funding using a CP-2.
 
-#### **CP-1.2 (REM) Removal of Mandate**
+#### CP-1.2 (REM) Removal of Mandate
 
 In order to revoke a mandate from a group, or individual in a group, a CP-1.2 proposal has to be created.
 
@@ -179,7 +179,7 @@ The group itself has autonomy to include and remove members, but in the case tha
 
 If the snapshot vote passes (majority of CFG votes to revoke the mandate), the group/individual will no longer have its mandate.
 
-#### **CP-2 (RF) Request for Funding**
+#### CP-2 (RF) Request for Funding
 
 Any entity (group or individual) who seeks funding from the Treasury, would need to create a CP-2 proposal. There can be different scenarios for an entity applying for funding:
 
@@ -204,7 +204,7 @@ When creating a request for funding, make sure to provide the calculations for t
 |3|Create a snapshot vote on OpenSquare|Minimum 7 days|
 |4|Create an on-chain Treasury proposal|-|
 
-#### **CP-3 (RU) Runtime Upgrades**
+#### CP-3 (RU) Runtime Upgrades
 
 CP-3 is used to propose Runtime Upgrades. Runtime Upgrades allow developers and community members to change the logic of the chain, or parameter for pallets, without the need for a hard fork.
 
@@ -219,7 +219,7 @@ Runtime Upgrades may contain previously passed CP-4s (General Improvements) - th
 |3|Create a Council motion or public proposal|-|
 |4|Public referendum|Exactly 7 days|
 
-#### **CP-3.1 (EP) Emergency Proposals**
+#### CP-3.1 (EP) Emergency Proposals
 
 CP-3.1 is used to propose emergency proposals in order to avoid or prevent hacks, exploits, attacks, or network halts.
 
@@ -270,7 +270,7 @@ For **technical proposals**, if it is a standalone proposal - i.e. not part of a
 
 Otherwise, the proposal will be in queue to be implemented in an upcoming Runtime Upgrade.
 
-#### **CP-5 (POP) Pool Onboarding Proposal**
+#### CP-5 (POP) Pool Onboarding Proposal
 
 To be announced.
 
