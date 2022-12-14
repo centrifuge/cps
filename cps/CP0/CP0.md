@@ -18,7 +18,7 @@ In our proposal to become a core group in the Centrifuge DAO, and get a mandate 
 
 ## Description of activity
 
-**Centrifuge Proposal Principles and Guidelines**
+### Centrifuge Proposal Principles and Guidelines
 
 - All proposals must be aligned to the Centrifuge Mission to unlock economic opportunity by connecting people to borrow and lend money transparently and cost-effectively
 - All proposals must follow their respective Governance process
@@ -243,7 +243,7 @@ This CP is used for proposals that don’t fit under any of the types. In other 
 
 A CP-4 can therefore be a wide range of proposal types, to improve the protocol or expand the ecosystem, and that require input from the Community. A CP-4 can roughly be divided into two categories; **technical** and **non-technical**.
 
-**Technical CP-4**
+##### Technical CP-4
 These can be proposals for the roadmap and technical features and functionality of the Centrifuge protocol, such as adjustment of fees, burning of tokens, liquidity pairing with another protocol, opening HRMP channels between other parachains etc. If passed, these proposals will typically be part of a Runtime Upgrade (CP-3) afterwards, but not always.
 
 **Non-technical CP-4**
