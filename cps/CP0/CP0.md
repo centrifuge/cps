@@ -1,6 +1,6 @@
 ---
 cp: 0
-title: CP-0 Centrifuge Proposal Framework
+title: Centrifuge Proposal Framework
 authors: Governance and Coordination Group (ImdioR, Orhan)
 date proposed: 2022-10-18
 status: passed
