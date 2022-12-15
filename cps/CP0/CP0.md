@@ -112,8 +112,8 @@ This refers to the part of the process that takes place on our Forum (Request Fo
 *On-chain Governance:*
 This refers to the part of the process that takes places on the blockchain. First a proposal is created on-chain (can be done by either the public or the Council) and this is generally followed by an on-chain referendum where all token holders can vote Aye or Nay.
 
-Some of these proposal types have different governance processes (see individual description of their processes below), but what they all  have in common is that they start with a post on the Forum and all CPs must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) on Github.
+Some of these proposal types have different governance processes, but what they all  have in common is that they start with a post on the Forum and all CPs must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) on Github.
 
 It is very important that the CP is submitted correctly. In the event of an incorrect format of a proposal, the process will need to be repeated.
 
-Please contact the Governance & Coordination Group on the Forum or Discord ([Rhano](https://gov.centrifuge.io/u/Rhano) or [ImdioR](https://gov.centrifuge.io/u/imdior)), if you have any doubts or questions, and they will assist you.
+Please contact the Governance & Coordination Group on the Forum or Discord ([Rhano](https://gov.centrifuge.io/u/Rhano) or [ImdioR](https://gov.centrifuge.io/u/imdior)), if you have any questions regarding the process.
