@@ -26,14 +26,14 @@ For **technical proposals**, if it is a standalone proposal - i.e. not part of a
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|4|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy) |-|
+|4|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council/motions) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy) |-|
 |5|Public referendum |Exactly 7 days|
 
 Otherwise, the proposal will be in queue to be implemented in an upcoming Runtime Upgrade.
 
 ### TEMPLATE
 ```
-Title: [TITLE OF PROPOSAL]
+Title: RFC: [TITLE OF PROPOSAL]
 Tags: cp-4, month, year
 ```
 #### Body of the RFC must contain:
