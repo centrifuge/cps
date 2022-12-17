@@ -26,7 +26,7 @@ For **technical proposals**, if it is a standalone proposal - i.e. not part of a
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|4|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy) |-|
+|4|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council/motions) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy) |-|
 |5|Public referendum |Exactly 7 days|
 
 Otherwise, the proposal will be in queue to be implemented in an upcoming Runtime Upgrade.
@@ -43,7 +43,7 @@ Author(s): Forum handle(s) of author(s)
 Member(s): Forum handle(s) of member(s)
 Date proposed: yyyy-mm-dd
 Short Summary 
-- One sentence summary of the mandate sought
+- One sentence summary of proposal
 High level objective 
 - A short description of the objective that this proposal will achieve
 Background 
