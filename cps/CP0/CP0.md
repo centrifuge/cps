@@ -3,6 +3,7 @@ cp: 0
 title: Centrifuge Proposal Framework
 authors: Governance and Coordination Group (ImdioR, Orhan)
 date proposed: 2022-10-18
+date passed: 2022-11-12
 status: passed
 ---
 ## Short Summary
