@@ -24,11 +24,11 @@ The next step is the funding process, which will be an on-chain Treasury Proposa
 
 ### TEMPLATE
 ```
-Title: *RFC: [TITLE OF PROPOSAL]*
+Title: RFC: [TITLE OF PROPOSAL]
 
-Tags: *cp-1, month, year*
+Tags: cp-1, month, year
 ```
-#### Body
+#### Body of the RFC must contain:
 ```
 Proposal type: CP-1
 Author(s): Forum handle(s) of author(s)
@@ -99,7 +99,7 @@ Once the announcement has been made, and the proposal has been submitted to the 
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/request-for-comments/37) (see template for title, tags and content)|Minimum 7 days|
+|1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/request-for-comments/37) (see template below for title, tags and content)|Minimum 7 days|
 |2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github)|-|
 |3|Create a snapshot vote on [OpenSquare](https://voting.opensquare.io/space/centrifuge)|Minimum 7 days|
 |4|Create a Proposal post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18)|-|
@@ -108,11 +108,11 @@ If the snapshot vote passes (majority of CFG votes to revoke the mandate), the g
 
 ### TEMPLATE
 ```
-Title: *RFC: [TITLE OF PROPOSAL]*
+Title: RFC: [TITLE OF PROPOSAL]
 
-Tags: *cp-1.2, month, year*
+Tags: cp-1.2, month, year
 ```
-#### Body
+#### Body of the RFC must contain:
 ```
 Proposal type: CP-1.2
 Author(s): Forum handle(s) of author(s)
