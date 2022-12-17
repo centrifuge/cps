@@ -8,9 +8,9 @@ Runtime Upgrades may contain previously passed CP-4s (General Improvements) - th
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Submit proposal to the Centrifuge Proposals Repository on [Github](https://github.com/centrifuge/cps/tree/main) to get a pull request # |-|
+|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request # |-|
 |2|Create a Proposal post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content) |-|
-|3|Create a Council motion or public proposal|-|
+|3|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council/motions) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy)|-|
 |4|Public referendum|Exactly 7 days|
 
 If the referendum vote passes, the Runtime Upgrade will be enacted. The Council can choose to fast track the referendum at their discretion.
@@ -21,14 +21,14 @@ Note that this post is not an RFC, but a Proposal post.
 In the title of this post, the XXXX is the pull request number from Github and YY is the abbreviation for the proposal type, e.g. (MRF), (RU) etc.
 
 ```
-Title (on Forum post): CP-XXXX (RU): [Runtime Upgrade YYYY]
-Tags (on Forum post): CP-3, month, year
+Title: CP-XXXX (RU): [Runtime Upgrade #]
+Tags: CP-3, month, year
 ```
 #### Body of the post must contain:
 ```
 Proposal type: CP-3
 Author(s): Forum handle(s) of author(s)
-Member(s): Forum handle(s) of member(s)
+Contributor(s): Forum handle(s) of contributor(s)
 Proposal on Proposal Repository (Github): INSERT LINK
 Date proposed: yyyy-mm-dd
 
