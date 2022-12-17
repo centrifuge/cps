@@ -125,3 +125,5 @@ Short Summary
 Background
 - What is the background for wanting to remove the mandate of the group/individual?
 ```
+
+>>>>>>> dfc41cc72fcbcc0a8a086651bf4605d877de07d3
