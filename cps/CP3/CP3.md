@@ -8,8 +8,8 @@ Runtime Upgrades may contain previously passed CP-4s (General Improvements) - th
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Submit proposal to the Centrifuge Proposals Repository [on Github](https://github.com/centrifuge/cps/tree/main) to get a pull request # |-|
-|2|Create a Proposal post |-|
+|1|Submit proposal to the Centrifuge Proposals Repository on [Github](https://github.com/centrifuge/cps/tree/main) to get a pull request # |-|
+|2|Create a Proposal post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content) |-|
 |3|Create a Council motion or public proposal|-|
 |4|Public referendum|Exactly 7 days|
 
@@ -59,7 +59,7 @@ These types of proposals will be fast-tracked and the voting window in the refer
 ### GOVERNANCE PROCESS
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create a post-mortem on the Forum with a description of the issue, along with the fix for it  |-|
+|1|Create a post-mortem on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) with a description of the issue, along with the fix for it  |-|
 
 ### TEMPLATE
 This proposal type doesn’t require any template.
