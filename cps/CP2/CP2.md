@@ -18,8 +18,51 @@ When creating a request for funding, make sure to provide the calculations for t
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create an RFC on the Forum (see template for title, content, where to post etc.)|Minimum 7 days|
+|1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/request-for-comments/37) (see template below for title, tags and content)|Minimum 7 days|
 |2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
-|3|Create a snapshot vote on OpenSquare|Minimum 7 days|
-|4|Create an on-chain Treasury proposal|-|
+|3|Create a Proposal post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content)|Minimum 7 days|
+|4|Create an on-chain [Treasury proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/treasury)|-|
 
+### TEMPLATE
+```
+Title: RFC: [TITLE OF PROPOSAL]
+
+Tags: cp-2, month, year
+```
+#### Body of the RFC must contain:
+```
+Proposal type: CP-2
+Author(s): Forum handle(s) of author(s)
+Beneficiary: Forum handle(s) of beneficiary
+Mandate: link to CP-1 or CP-1.1 (only if mandate already obtained and relevant)
+Wallet: wallet address where fund should be transferred
+Date proposed: yyyy-mm-dd
+
+Short Summary 
+- One sentence summary of the funding sought
+
+High level objective 
+- A short description of the objective that this proposal will achieve
+
+Background 
+- What are the historical and contextual factors that make this proposal relevant and aligned with the mission?
+
+Description of Activity 
+- Give details on the activity and the problem it is solving
+
+Change or improvement 
+- What is the change or improvement that this mandate will bring?
+
+Alignment to the mission of Centrifuge DAO
+- Explain why this is important and aligned with the mission
+
+Description of Individual/Group seeking funding
+- Background of the member(s) of the group seeking funding
+
+Budget
+- What amount is requested and how is it calculated?
+- How are the funds distributed within the group?
+
+Delivery and Reporting
+- A timeline of when the objective(s) will be delivered and how this will be reported
+```
