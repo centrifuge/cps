@@ -22,7 +22,7 @@ In the title of this post, the XXXX is the pull request number from Github and Y
 
 ```
 Title (on Forum post): CP-XXXX (RU): [Runtime Upgrade YYYY]
-Tags(on Forum post): CP-3, month, year
+Tags (on Forum post): CP-3, month, year
 ```
 #### Body of the post must contain:
 ```
@@ -62,5 +62,4 @@ These types of proposals will be fast-tracked and the voting window in the refer
 |1|Create a post-mortem on the Forum with a description of the issue, along with the fix for it  |-|
 
 ### TEMPLATE
-
 This proposal type doesn’t require any template.
