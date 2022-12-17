@@ -33,7 +33,7 @@ Otherwise, the proposal will be in queue to be implemented in an upcoming Runtim
 
 ### TEMPLATE
 ```
-Title: RFC: [TITLE OF PROPOSAL]
+Title: [TITLE OF PROPOSAL]
 Tags: cp-4, month, year
 ```
 #### Body of the RFC must contain:
