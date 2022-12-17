@@ -43,7 +43,7 @@ Author(s): Forum handle(s) of author(s)
 Member(s): Forum handle(s) of member(s)
 Date proposed: yyyy-mm-dd
 Short Summary 
-- One sentence summary of the mandate sought
+- One sentence summary of proposal
 High level objective 
 - A short description of the objective that this proposal will achieve
 Background 
