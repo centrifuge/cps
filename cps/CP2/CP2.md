@@ -20,7 +20,7 @@ When creating a request for funding, make sure to provide the calculations for t
 | --- | --- | :---: |
 |1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/request-for-comments/37) (see template below for title, tags and content)|Minimum 7 days|
 |2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
-|3|Create a snapshot vote on [OpenSquare](https://voting.opensquare.io/space/centrifuge)|Minimum 7 days|
+|3|Create a Proposal post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content))|Minimum 7 days|
 |4|Create an on-chain [Treasury proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/treasury)|-|
 
 ### TEMPLATE
