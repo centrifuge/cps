@@ -21,7 +21,7 @@ Note that this post is not an RFC, but a Proposal post.
 In the title of this post, the XXXX is the pull request number from Github and YY is the abbreviation for the proposal type, e.g. (MRF), (RU) etc.
 
 ```
-Title: CP-XXXX (RU): [Runtime Upgrade #]
+Title: CPXXXX (RU): [Runtime Upgrade #]
 Tags: CP-3, month, year
 ```
 #### Body of the post must contain:
