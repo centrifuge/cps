@@ -40,8 +40,10 @@ Tags: cp-4, month, year
 ```
 Proposal type: CP-4
 Author(s): Forum handle(s) of author(s)
-Member(s): Forum handle(s) of member(s)
+Contributor(s): Forum handle(s) of contributor(s)
+Technical/non-technical proposal: specify type
 Date proposed: yyyy-mm-dd
+
 Short Summary 
 - One sentence summary of proposal
 High level objective 
