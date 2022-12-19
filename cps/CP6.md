@@ -10,7 +10,7 @@ status: polling
 ## Short Summary
 Implement a block reward to Centrifuge Parachain
 Improvement of Collator Reward Cycle
-High-level objective
+## High-level objective
 This proposal is aimed to improve Collators management and implement a block reward to the Centrifuge Parachain and funding the Centrifuge Treasury, which will solve a number of issues.
 ## Background
 The standalone Centrifuge chain had a 3% block reward that was distributed to its validators and stakers.
