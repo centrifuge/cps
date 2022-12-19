@@ -77,3 +77,4 @@ With a funded Treasury, any individual or group following CP Framework could off
 >In its turn, сontinuous improvement of the protocol and new partnerships unlocks economic opportunity by connecting people to borrow and lend money transparently and cost-effectively.
 
 Link to the RFC on the Forum: https://gov.centrifuge.io/t/rfc-add-a-block-reward-and-improve-collators-cycle/4766
+Link to the Opensquare Snapshot: https://voting.opensquare.io/space/centrifuge/proposal/QmYh1uJmu4VgEa6H5CSirZ9juJTdbTAB77LazAK4tB9Gpv
