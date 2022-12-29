@@ -96,14 +96,14 @@ We have defined the following proposal types (CPs) and assigned them each with a
 
 |CP #|Proposal type|Short description|
 | --- | --- | --- |
-|CP-1|Request for Mandate with Funding|Seeking mandate as a group/individual within the Centrifuge DAO to enact a project/work stream|
-|CP-1.1|Request for Mandate without Funding|Same as CP-1, just without initial funding|
-|CP-1.2|Removal of Mandate|Removal of a group’s mandate to enact a project/work stream (CP-1)|
-|CP-2|Request for Funding|Asking for funding from the Treasury|
-|CP-3|Runtime Upgrades|Proposals for Runtime Upgrades|
-|CP-3.1|Emergency Proposals|Emergency proposals in case of hacks, exploits, attacks, or network halt|
-|CP-4|General Improvements|Any proposal type, that does not fit under any of the other CPs|
-|CP-5|Centrifuge Pool Onboarding Proposal (POP)|Onboarding new pools on Centrifuge Chain|
+|[CP-1](../CP1/CP1.md)|Request for Mandate with Funding|Seeking mandate as a group/individual within the Centrifuge DAO to enact a project/work stream|
+|[CP-1.1](../CP1/CP1.md)|Request for Mandate without Funding|Same as CP-1, just without initial funding|
+|[CP-1.2](../CP1/CP1.md)|Removal of Mandate|Removal of a group’s mandate to enact a project/work stream (CP-1)|
+|[CP-2](../CP2/CP2.md)|Request for Funding|Asking for funding from the Treasury|
+|[CP-3](../CP3/CP3.md)|Runtime Upgrades|Proposals for Runtime Upgrades|
+|[CP-3.1](../CP3/CP3.md)|Emergency Proposals|Emergency proposals in case of hacks, exploits, attacks, or network halt|
+|[CP-4](../CP4/CP4.md)|General Improvements|Any proposal type, that does not fit under any of the other CPs|
+|[CP-5](../CP5/CP5.md)|Centrifuge Pool Onboarding Proposal (POP)|Onboarding new pools on Centrifuge Chain|
 
 In general, the Governance process can be divided into two parts; *off-chain* and *on-chain Governance*.
 
