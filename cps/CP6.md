@@ -5,7 +5,8 @@ authors: Governance and Coordination Group (ImdioR, Orhan)
 advisors: Cassidy, Miguel
 proposal-type: CP-4
 date-proposed: 2022-11-16
-status: polling
+date-ended: 2022-12-17
+status: passed
 ---
 ## Short Summary
 Implement a block reward to Centrifuge Parachain
