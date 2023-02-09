@@ -1,4 +1,4 @@
-Founding Document Part One: The Shared Mission
+## Founding Document Part One: The Shared Mission
 
 For Centrifuge to become a successful protocol it will require working together towards one overarching goal, or ‘mission’. Because what we're building is on-chain (i.e. run on transparent, resilient, and automated infrastructure) it follows that the organizational structure should be run as transparently, resiliently, and as automatically as possible. Therefore we choose to organize as a DAO and make use of the coordination gains that a shared mission can give us, these can include:
 
