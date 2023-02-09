@@ -71,3 +71,14 @@ If there is an ongoing conflict between members or groups, either party, or any 
 If mediation cannot be done by Moderators, the Moderators should propose a Conflict Resolution Committee, consisting of 3 DAO members (objective and independent of the parties involved). One or more of these people must have experience in conflict resolution or mediation, the Centrifuge DAO has access to a network of mediators at [greaterthan.works](https://www.greaterthan.works/) who should be involved in any committee, some of whom are also DAO members.
 
 The role of the Committee is to try and resolve conflict in the way that best serves the parties involved and ultimately the principles and mission of the DAO.  It is a temporary committee established solely for the purpose of resolving any conflicts or disputes between the parties in the DAO. If or after the specific conflict is resolved, the Conflict Resolution Committee dissolves.
+
+|Moderator|Slack|Forum|Discord|
+| --- | --- | --- | --- |
+|Orhan (GCG)|@Orhan|@rhano|@Rhano | CFG#6808|
+|Ivan (GCG)|@ImdioR|@ImdioR|@Imdior_CKZ | CFG#8610|
+|Kate (Forum Moderator)|@Kate|@Kate_Centrifuge|@Katebee#9477 |
+|Christian (Forum Moderator)|@Tjure07|@Tjure07|@Tjure07 | CFG#4308|
+|Ash (Discord Moderator)|@ash|@Ash|@fishscale#4561|
+|Yaroslav (Discord Moderator)|@yaroslav|@Yarosl6|@Yaroslav#3010|
+
+
