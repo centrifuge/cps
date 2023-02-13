@@ -35,7 +35,7 @@
 ## Section 2: Credit Experience
 
 **Capital Markets**: 
-* Please elaborate on your off-chain capital markets relationships, their familiarity with crypto and specifically DeFi, and their inclination to finance your debt offering via Centrifuge
+* Please elaborate on your off-chain capital markets relationships, their familiarity with crypto and specifically DeFi, and their inclination to finance your debt offering via Centrifuge.
 
 **Origination**: 
 * **History**: Describe your originations history over the past 2 years and give insight into scale and performance.
