@@ -32,7 +32,7 @@ The process is held by the Community, and most specifically CFG token holders, u
 ## Detailed Description of Proposal
 This proposal hopes to accomplish:
 
-* A long-term vision to develop a decentralized onboarding process owned by the community through on-chain governance
+* A long-term vision to develop a decentralized onboarding process owned by the community through governance
 * An immediate term way for easier access to the Pools and better investor engagement around high quality opportunities reviewed by the Credit Group
 * A more clear outline of requirements and process to launch a Pool through Centrifuge
 
