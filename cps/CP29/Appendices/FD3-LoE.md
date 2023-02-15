@@ -82,4 +82,4 @@ DAO levels can be changed for several reasons:
 
 Inquiries regarding access and level changes should be addressed to the GCG.
 
-![](../CP29/Images/changeloe.png)
+![LevelofEngagement](..cps/CP29/Images/changeloe.png "LoE")
