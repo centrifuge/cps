@@ -40,7 +40,7 @@ This version of the POP is simpler, provides off-chain voting to CFG token holde
 
 Please review the Process (image below) and use the accompanying **POP Process** appendix, which includes an explanation for each step above. There have also been adjustments to allow for more subjectivity and more description in the **POP Proposal Template**, while intending to be more helpful through the **POP Proposal Guidance**, which will be agreed upon by the Community to help provide guidance and direction to POPs before they submit a POP through governance.
 
-![](./POP-process.png)
+![](./Appendices/POP-process.png)
 
 ### Appendices
 * [POP Process](../CP5/Appendices/process.md)
