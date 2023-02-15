@@ -1,6 +1,6 @@
 # Founding Document Part Three: Levels of Engagement
 
-![](./LoE.png)
+![](../CP29/Images/LoE.png)
 
 People are involved in Centrifuge for various reasons, with different ambitions, interests, and levels of engagement. Some actively participate in all aspects of governance (discussion and voting), some only in certain parts of the project and others don’t actively participate at all. In order to keep our discussions constructive and productive, and to engage people on relevant matters who have relevant expertise, we propose these levels of engagement.
 
@@ -35,13 +35,7 @@ These are typically community members who hold tokens but are not actively engag
 
 It is possible for a DAO member to move levels - both up and down. Any contributor can increase their access if they start contributing regularly in a meaningful way to the DAO, via governance, forum discussions, call participation, or by being part of a project that contributes to the protocol.
 
-DAO levels can be changed for several reasons:
-
-* Personal decision. If a member no longer wishes to be a part of the DAO or would like to contribute less.
-* Inactivity. After 90 days of inactivity, the level of a contributor can be decreased.
-* As a consequence of violating the CoC.
-
-Inquiries regarding access and level changes should be addressed to the GCG.
+For more details about the criteria to move levels, see Appendix 1.
 
 ## Appendix 1
 
@@ -62,3 +56,30 @@ Inquiries regarding access and level changes should be addressed to the GCG.
 * Access to all information via our public channels (Forum, Medium, Discord, Telegram, Twitter and newsletters)
 * Can participate in governance and public online events (Community + Governance Call, AMA etc.)
 
+### Criteria for Changing Levels
+
+**Passive Contributors -> Active Contributors**
+
+Any Daily Contributor can invite a Passive Contributor to become an Active Contributor - via a consent based vote - if they fulfill either of the following criteria:
+
+* Their contribution to the DAO requires access to specific communication channels
+* They contribute regularly to the development of the protocol
+* They participate actively and regularly in Governance/Community Calls, Forum discussions, AMAs, live events with quality input
+
+Measuring *regularly* and *quality input* can be challenging but we define *regularly* as consistent and stable contribution over a period of time - and *quality input* means giving constructive feedback on proposals/ideas and coming up with new ideas for how to improve the protocol/DAO and expand the ecosystem.
+
+**Passive Contributors/Active Contributors -> Daily Contributors**
+
+In order to become a Daily Contributor, a DAO member would need to be part of the aforementioned entities and/or contribute to the development of the protocol on a near daily basis.
+
+**Active Contributor -> Passive Contributor**
+
+DAO levels can be changed for several reasons:
+
+* Personal decision. If a member no longer wishes to be a part of the DAO or would like to contribute less.
+* Inactivity. After 90 days of inactivity, the level of a contributor can be decreased.
+* As a consequence of violating the CoC.
+
+Inquiries regarding access and level changes should be addressed to the GCG.
+
+![](../CP29/Images/changeloe.png)
