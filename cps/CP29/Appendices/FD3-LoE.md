@@ -1,6 +1,6 @@
 # Founding Document Part Three: Levels of Engagement
 
-![](../CP29/Images/LoE.png)
+![](../CP29/Appendices/LoE.png)
 
 People are involved in Centrifuge for various reasons, with different ambitions, interests, and levels of engagement. Some actively participate in all aspects of governance (discussion and voting), some only in certain parts of the project and others don’t actively participate at all. In order to keep our discussions constructive and productive, and to engage people on relevant matters who have relevant expertise, we propose these levels of engagement.
 
@@ -82,4 +82,4 @@ DAO levels can be changed for several reasons:
 
 Inquiries regarding access and level changes should be addressed to the GCG.
 
-![LevelofEngagement](..cps/CP29/Images/changeloe.png "LoE")
+![](../CP29/images/changeloe.png)
