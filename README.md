@@ -17,7 +17,7 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 | [CP21](./cps/CP21.md) | Updating Tinlake Rewards Allocation |
 | [CP23](./cps/CP23.md) | Renewal RWA Market rewards proposal |
 | [CP24](./cps/CP24.md) | Runtime Upgrade 1016 |
-| [CP29])(./cps/CP29/CP29.md) | Founding Documents of the Centrifuge DAO |
+| [CP29](./cps/CP29/CP29.md) | Founding Documents of the Centrifuge DAO |
 | [CP32](./cps/CP32.md) | Roadmap Process & Protocol Engineering Group Mandate |
 | [CP34](./cps/CP34.md) | Open HRMP channels between Centrifuge and HydraDX |
 
