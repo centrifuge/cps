@@ -1,3 +1,12 @@
+---
+cp: 4
+title: Centrifuge Proposal Framework
+authors: Governance and Coordination Group (ImdioR, Orhan)
+date proposed: 2022-10-18
+date passed: 2022-11-12
+status: passed
+---
+
 # CP-4 (GI): General Improvements
 
 This CP is used for proposals that don’t fit under any of the types. In other words, if it is not a CP-1, CP-2, CP-3 or CP-5 (or any of their derivatives), it is a CP-4. 

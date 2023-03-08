@@ -1,3 +1,12 @@
+---
+cp: 3
+title: Centrifuge Proposal Framework
+authors: Governance and Coordination Group (ImdioR, Orhan)
+date proposed: 2022-10-18
+date passed: 2022-11-12
+status: passed
+---
+
 # CP-3 (RU) Runtime Upgrades 
 
 CP-3 is used to propose Runtime Upgrades. Runtime Upgrades allow developers and community members to change the logic of the chain, or parameter for pallets, without the need for a hard fork.
