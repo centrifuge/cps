@@ -4,7 +4,8 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 
 ## Accepted CPs
 
-
+|CP | Short title |
+|---|-------------|
 | [CP0](./cps/CP0/CP0.md) | Centrifuge Proposal Framework |
 | [CP1](./cps/CP1/CP1.md) | CP-1 (MRF): Request for Mandate with Funding |
 | [CP2](./cps/CP2/CP2.md) | CP-2 (RF): Request for Funding |
