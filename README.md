@@ -1,7 +1,6 @@
 # Centrifuge Proposals (CPs): Documenting and Improving Centrifuge Governance and Protocol
 This repository contains all submitted Centriuge Proposals. The gensis proposal [CP0](cps/CP0/CP0.md) describes how to submit a proposal.
 
-## Proposed CPs
 
 ## Accepted CPs
 
@@ -20,5 +19,8 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 | [CP29](./cps/CP29/CP29.md) | Founding Documents of the Centrifuge DAO |
 | [CP32](./cps/CP32.md) | Roadmap Process & Protocol Engineering Group Mandate |
 | [CP34](./cps/CP34.md) | Open HRMP channels between Centrifuge and HydraDX |
+
+## Proposed CPs
+
 
 ## Rejected CPs
