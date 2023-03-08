@@ -1,3 +1,12 @@
+---
+cp: 1
+title: Centrifuge Proposal Framework
+authors: Governance and Coordination Group (ImdioR, Orhan)
+date proposed: 2022-10-18
+date passed: 2022-11-12
+status: passed
+---
+
 # CP-1 (MRF): Request for Mandate with Funding
 
 A mandate can be interpreted as an entity (group or individual) being given the authority by the DAO to pursue the stated objectives. The entity takes on the responsibility of fulfilling the mandate and accepts accountability to the DAO over this. 

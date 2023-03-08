@@ -5,8 +5,8 @@ authors: Colin
 contributors: Jay
 proposal-type: CP-4 non-technical
 date-proposed: 2022-12-14
-date-ended: 
-status: polling
+date-ended: 2023-03-02
+status: passed
 ---
 
 ## Short Summary

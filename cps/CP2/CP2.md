@@ -1,3 +1,12 @@
+---
+cp: 2
+title: Centrifuge Proposal Framework
+authors: Governance and Coordination Group (ImdioR, Orhan)
+date proposed: 2022-10-18
+date passed: 2022-11-12
+status: passed
+---
+
 # CP-2 (RF): Request for Funding
 
 Any entity (group or individual) who seeks funding from the Treasury, would need to create a CP-2 proposal. There can be different scenarios for an entity applying for funding:
