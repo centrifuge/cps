@@ -7,11 +7,11 @@ date passed: 2022-11-12
 status: passed
 ---
 
-# CP-3 (RU) Runtime Upgrades 
+# CP3 (RU) Runtime Upgrades 
 
-CP-3 is used to propose Runtime Upgrades. Runtime Upgrades allow developers and community members to change the logic of the chain, or parameter for pallets, without the need for a hard fork.
+CP3 is used to propose Runtime Upgrades. Runtime Upgrades allow developers and community members to change the logic of the chain, or parameter for pallets, without the need for a hard fork.
 
-Runtime Upgrades may contain previously passed CP-4s (General Improvements) - this will be specified in the Proposal post.
+Runtime Upgrades may contain previously passed CP4s (General Improvements) - this will be specified in the Proposal post.
 
 ### GOVERNANCE PROCESS
 
@@ -35,7 +35,7 @@ Tags: CP-3, month, year
 ```
 #### Body of the post must contain:
 ```
-Proposal type: CP-3
+Proposal type: CP3
 Author(s): Forum handle(s) of author(s)
 Contributor(s): Forum handle(s) of contributor(s)
 Proposal on Proposal Repository (Github): INSERT LINK
@@ -43,7 +43,7 @@ Date proposed: yyyy-mm-dd
 
 List of content of this Runtime Upgrade
 - Added functionalities, changed parameters etc.
-- If CP-4s are included, link to their Proposal post
+- If CP4s are included, link to their Proposal post
 
 Detailed description of each content 
 - Describe the different content above in details
@@ -53,9 +53,9 @@ Governance process for this proposal
 - Duration of referendum vote
 ```
 
-#  CP-3.1 (EP) Emergency Proposals
+#  CP3.1 (EP) Emergency Proposals
 
-CP-3.1 is used to propose emergency proposals in order to avoid or prevent hacks, exploits, attacks, or network halts.
+CP3.1 is used to propose emergency proposals in order to avoid or prevent hacks, exploits, attacks, or network halts.
 
 In order to protect the protocol, some actions or changes may take place without prior notice (Council motions + referenda).
 

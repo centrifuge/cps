@@ -3,7 +3,7 @@ cp: 5
 title: POP (Pool Onboarding Proposal)
 authors: Colin
 contributors: Jay
-proposal-type: CP-4 non-technical
+proposal-type: CP4 non-technical
 date-proposed: 2022-12-14
 date-ended: 2023-03-02
 status: passed
@@ -13,7 +13,7 @@ status: passed
 Proposal for an improved version of the POP from the [current POP that exists today](https://gov.centrifuge.io/t/introducing-the-pool-onboarding-proposal-pop/3846).
 
 ## High Level Objective
-To simplify the POP process for RWAs onboarding through the Centrifuge protocol and to increase the Community engagement and participation in the process. If this proposal is to pass in the future, it will be added as CP-5 (POP) to the governance process.
+To simplify the POP process for RWAs onboarding through the Centrifuge protocol and to increase the Community engagement and participation in the process. If this proposal is to pass in the future, it will be added as CP5 (POP) to the governance process.
 
 ## Background
 The POP has been active for over 6 months. In that time, we’ve seen 12 POPs submitted, a number of Introductions, a couple of Pool Parties, and the discussion and engagement around RWAs continues to rise across the Forum.

@@ -7,13 +7,13 @@ date passed: 2022-11-12
 status: passed
 ---
 
-# CP-1 (MRF): Request for Mandate with Funding
+# CP1 (MRF): Request for Mandate with Funding
 
 A mandate can be interpreted as an entity (group or individual) being given the authority by the DAO to pursue the stated objectives. The entity takes on the responsibility of fulfilling the mandate and accepts accountability to the DAO over this. 
 
 Work can be initiated and brought to the DAO without a mandate, but no individual or group may claim to be working on behalf of the DAO without a mandate. 
 
-A mandate indicates long term commitment (i.e. not a one time service, like creating a video for a specific purpose) and hence on-going funding. The maximum funding period is 6 months. This means that every 6 months, the group or individual would need to re-apply for funding by submitting a CP-2.
+A mandate indicates long term commitment (i.e. not a one time service, like creating a video for a specific purpose) and hence on-going funding. The maximum funding period is 6 months. This means that every 6 months, the group or individual would need to re-apply for funding by submitting a CP2.
 
 ### GOVERNANCE PROCESS
 
@@ -39,7 +39,7 @@ Tags: cp-1, month, year
 ```
 #### Body of the RFC must contain:
 ```
-Proposal type: CP-1
+Proposal type: CP1
 Author(s): Forum handle(s) of author(s)
 Member(s): Forum handle(s) of member(s)
 Date proposed: yyyy-mm-dd
@@ -76,22 +76,22 @@ Delivery and Reporting
 - A timeline of when the objective(s) will be delivered and how this will be reported
 ```
 
-# CP-1.1 (MR) Mandate Request without Funding
+# CP1.1 (MR) Mandate Request without Funding
 
-Same as CP-1, just without funding (i.e. no step 5 and Budget does not need to be specified in the RFC).
+Same as CP1, just without funding (i.e. no step 5 and Budget does not need to be specified in the RFC).
 
-A group can make a proposal for seeking a mandate for a specific project/work stream and then afterwards apply for funding using a CP-2.
+A group can make a proposal for seeking a mandate for a specific project/work stream and then afterwards apply for funding using a CP2.
 
-# CP-1.2 (REM) Removal of Mandate
+# CP1.2 (REM) Removal of Mandate
 
-In order to revoke a mandate from a group, or individual in a group, a CP-1.2 proposal has to be created.
+In order to revoke a mandate from a group, or individual in a group, a CP1.2 proposal has to be created.
 
 This can happen in two ways:
 
 1) *The group/individual itself no longer wants its mandate within the DAO*
 2) *The Community/DAO wants to revoke the mandate of a group/individual in a group*
 
-The group itself has autonomy to include and remove members, but in the case that someone breaks the Code of Conduct (forthcoming), the DAO can propose to remove a group member from the group. 
+The group itself has autonomy to include and remove members, but in the case that someone breaks the [Code of Conduct](https://github.com/centrifuge/cps/blob/main/cps/CP29/Appendices/FD4-CoC.md), the DAO can propose to remove a group member from the group. 
 
 ### GOVERNANCE PROCESS
 
@@ -99,7 +99,7 @@ The group itself has autonomy to include and remove members, but in the case tha
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create a Proposal post (still a CP-1.2) on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) with an explanation of the revocation of the mandate|-|
+|1|Create a Proposal post (still a CP1.2) on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) with an explanation of the revocation of the mandate|-|
 |2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github)|-|
 
 Once the announcement has been made, and the proposal has been submitted to the Centrifuge Proposals Repository, the group has automatically been revoked of its mandate. 
@@ -123,9 +123,9 @@ Tags: cp-1.2, month, year
 ```
 #### Body of the RFC must contain:
 ```
-Proposal type: CP-1.2
+Proposal type: CP1.2
 Author(s): Forum handle(s) of author(s)
-Related to: link to the CP-1 or CP-1.1 where mandate was obtained
+Related to: link to the CP1 or CP1.1 where mandate was obtained
 Date proposed: yyyy-mm-dd
 
 Short Summary 

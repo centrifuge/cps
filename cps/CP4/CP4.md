@@ -7,17 +7,17 @@ date passed: 2022-11-12
 status: passed
 ---
 
-# CP-4 (GI): General Improvements
+# CP4 (GI): General Improvements
 
-This CP is used for proposals that don’t fit under any of the types. In other words, if it is not a CP-1, CP-2, CP-3 or CP-5 (or any of their derivatives), it is a CP-4. 
+This CP is used for proposals that don’t fit under any of the types. In other words, if it is not a CP1, CP2, CP3 or CP5 (or any of their derivatives), it is a CP4. 
 
-A CP-4 can therefore be a wide range of proposal types, to improve the protocol or expand the ecosystem, and that require input from the Community. A CP-4 can roughly be divided into two categories; technical and non-technical.
+A CP4 can therefore be a wide range of proposal types, to improve the protocol or expand the ecosystem, and that require input from the Community. A CP4 can roughly be divided into two categories; technical and non-technical.
 
-### Technical CP-4
+### Technical CP4
 
-These can be proposals for the roadmap and technical features and functionality of the Centrifuge protocol, such as adjustment of fees, burning of tokens, liquidity pairing with another protocol, opening HRMP channels between other parachains etc. If passed, these proposals will typically be part of a Runtime Upgrade (CP-3) afterwards, but not always.
+These can be proposals for the roadmap and technical features and functionality of the Centrifuge protocol, such as adjustment of fees, burning of tokens, liquidity pairing with another protocol, opening HRMP channels between other parachains etc. If passed, these proposals will typically be part of a Runtime Upgrade (CP3) afterwards, but not always.
 
-### Non-technical CP-4
+### Non-technical CP4
 These are proposals that do not require a change on the blockchain, and hence do not require an on-chain vote. This could be co-marketing partnerships, changes to the Governance process, incentivising users with NFTs for participation in Governance, creating events etc.
 
 ### GOVERNANCE PROCESS
@@ -31,7 +31,7 @@ These are proposals that do not require a change on the blockchain, and hence do
 
 For **non-technical proposals**, the process ends here and if the snapshot vote passes (majority of CFG votes in favor of the proposal), the proposal passes. 
 
-For **technical proposals**, if it is a standalone proposal - i.e. not part of a Runtime Upgrade (CP-3) - there will be two more steps. 
+For **technical proposals**, if it is a standalone proposal - i.e. not part of a Runtime Upgrade (CP3) - there will be two more steps. 
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
@@ -47,7 +47,7 @@ Tags: cp-4, month, year
 ```
 #### Body of the RFC must contain:
 ```
-Proposal type: CP-4
+Proposal type: CP4
 Author(s): Forum handle(s) of author(s)
 Contributor(s): Forum handle(s) of contributor(s)
 Technical/non-technical proposal: specify type

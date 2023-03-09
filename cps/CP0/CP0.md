@@ -25,7 +25,7 @@ In our proposal to become a core group in the Centrifuge DAO, and get a mandate 
 - All proposals must follow their respective Governance process
 - A CP must be as clear and easy to understand as possible. Any member of the community without special knowledge should be able to understand the meaning and purpose of the proposal, even if not all details
 - A CP must be thorough. Relevant information or categories must not be left undefined
-- The proposer must select the relevant type CP (e.g. CP-1, CP-2 etc.) and provide the information mandated by their templates
+- The proposer must select the relevant type CP (e.g. CP1, CP2 etc.) and provide the information mandated by their templates
 - CPs must use the baseline timing of their Governance process but can use extensions if needed. If you want to use an extension make it clear in the RFC itself and outline why you think an extension is needed
 - Using the principles, process, and CP framework, anyone can create a CP at any time
 
@@ -46,7 +46,7 @@ After a proposal has been submitted, a pull request number (XXXX) will automatic
 
 ### Snapshot voting
 
-Snapshot voting has replaced our Forum polls and is always the next step in the off-chain governance after an RFC (except for CP-2, CP-3 and CP-3.1, that do not require it). Once there has been adequate discussion of a proposal (after a minimum of 7 days) - and the proposal has been submitted to the PR - a snapshot vote must be created on [OpenSquare](https://voting.opensquare.io/space/centrifuge).
+Snapshot voting has replaced our Forum polls and is always the next step in the off-chain governance after an RFC (except for CP2, CP3 and CP3.1, that do not require it). Once there has been adequate discussion of a proposal (after a minimum of 7 days) - and the proposal has been submitted to the PR - a snapshot vote must be created on [OpenSquare](https://voting.opensquare.io/space/centrifuge).
 
 If a proposal does not require an on-chain vote, the snapshot vote will be binding (i.e. if the snapshot vote passes, the proposal passes).
 
@@ -96,14 +96,15 @@ We have defined the following proposal types (CPs) and assigned them each with a
 
 |CP #|Proposal type|Short description|
 | --- | --- | --- |
-|[CP-1](../CP1/CP1.md)|Request for Mandate with Funding|Seeking mandate as a group/individual within the Centrifuge DAO to enact a project/work stream|
-|[CP-1.1](../CP1/CP1.md)|Request for Mandate without Funding|Same as CP-1, just without initial funding|
-|[CP-1.2](../CP1/CP1.md)|Removal of Mandate|Removal of a group’s mandate to enact a project/work stream (CP-1)|
-|[CP-2](../CP2/CP2.md)|Request for Funding|Asking for funding from the Treasury|
-|[CP-3](../CP3/CP3.md)|Runtime Upgrades|Proposals for Runtime Upgrades|
-|[CP-3.1](../CP3/CP3.md)|Emergency Proposals|Emergency proposals in case of hacks, exploits, attacks, or network halt|
-|[CP-4](../CP4/CP4.md)|General Improvements|Any proposal type, that does not fit under any of the other CPs|
-|[CP-5](../CP5/CP5.md)|Centrifuge Pool Onboarding Proposal (POP)|Onboarding new pools on Centrifuge Chain|
+|[CP1](../CP1/CP1.md)|Request for Mandate with Funding|Seeking mandate as a group/individual within the Centrifuge DAO to enact a project/work stream|
+|[CP1.1](../CP1/CP1.md)|Request for Mandate without Funding|Same as CP-1, just without initial funding|
+|[CP1.2](../CP1/CP1.md)|Removal of Mandate|Removal of a group’s mandate to enact a project/work stream (CP-1)|
+|[CP2](../CP2/CP2.md)|Request for Funding|Asking for funding from the Treasury|
+|[CP3](../CP3/CP3.md)|Runtime Upgrades|Proposals for Runtime Upgrades|
+|[CP3.1](../CP3/CP3.md)|Emergency Proposals|Emergency proposals in case of hacks, exploits, attacks, or network halt|
+|[CP4](../CP4/CP4.md)|General Improvements|Any proposal type, that does not fit under any of the other CPs|
+|[CP5](../CP5/CP5.md)|Centrifuge Pool Onboarding Proposal (POP)|Onboarding new pools on Centrifuge Chain|
+|[CP32](../CP32.md)|Roadmap Proposals|Create a Roadmap Proposal to replace the previous one|
 
 In general, the Governance process can be divided into two parts; *off-chain* and *on-chain Governance*.
 
