@@ -7,12 +7,12 @@ date passed: 2022-11-12
 status: passed
 ---
 
-# CP-2 (RF): Request for Funding
+# CP2 (RF): Request for Funding
 
-Any entity (group or individual) who seeks funding from the Treasury, would need to create a CP-2 proposal. There can be different scenarios for an entity applying for funding:
+Any entity (group or individual) who seeks funding from the Treasury, would need to create a CP2 proposal. There can be different scenarios for an entity applying for funding:
 
-- The entity already created a CP-1 (that passed) and received funding and wants to re-apply
-- The entity already created a CP-1.1 (that passed) and wants to apply for funding
+- The entity already created a CP1 (that passed) and received funding and wants to re-apply
+- The entity already created a CP1.1 (that passed) and wants to apply for funding
 - The entity doesn’t have a mandate but wants to apply for funding for a one time service
 
 The Treasury is administered by the Council so only the Council will vote on the proposal - token holders will not vote on it. 
@@ -40,10 +40,10 @@ Tags: cp-2, month, year
 ```
 #### Body of the RFC must contain:
 ```
-Proposal type: CP-2
+Proposal type: CP2
 Author(s): Forum handle(s) of author(s)
 Beneficiary: Forum handle(s) of beneficiary
-Mandate: link to CP-1 or CP-1.1 (only if mandate already obtained and relevant)
+Mandate: link to CP1 or CP1.1 (only if mandate already obtained and relevant)
 Wallet: wallet address where fund should be transferred
 Date proposed: yyyy-mm-dd
 
