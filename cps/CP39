@@ -1,0 +1,63 @@
+---
+cp: 39
+title: EVM compatibility on the Centrifuge Chain and Centrifuge App
+authors: annamehr
+contributors: mustermeiszer, jeroen
+proposal-type: CP4 technical
+date-proposed: 2023-03-07
+date-ended: 
+status: polling
+---
+
+## Short Summary
+Proposal for the support of the community to enable full EVM compatibility on the Centrifuge Chain and Centrifuge App.
+
+## High-level objective
+The objective is to make Centrifuge Protocol compatible with the Ethereum Virtual Machine (EVM). The proposal would aim to ensure that wallets, custodians, block explorers, and other EVM compatible infrastructure that users are familiar with can interact with Centrifuge Chain. This update will make Centrifuge easier to use for the user.
+
+## Background
+The first version of the Centrifuge product (Tinlake) launched on Ethereum in 2020. Since the launch over $316M DAI in loans were issued on the platform and more than 1000 assets tokenized. When launching Centrifuge Pools we want to support Ethereum and Centrifuge Chain to allow investors to provide liquidity.
+
+## Description of Activity
+
+The primary outcome of such a proposal would be to enable Centrifuge's users to benefit from the advantages of EVM compatibility.
+
+### Advantages
+EVM compatibility provides several advantages for Centrifuge, including:
+
+* Access to existing infrastructure: The Ethereum ecosystem has a robust set of infrastructure providers, such as wallets, explorers, and block explorers. By being EVM compatible, Centrifuge can leverage this existing infrastructure, making it easier for users to interact with the protocol and reducing the friction of adoption.
+* Greater security and reliability: The EVM is a mature and battle-tested virtual machine, and many security audits have been conducted on Ethereum smart contracts. By building a protocol that is EVM compatible, developers can leverage this existing security infrastructure, reducing the risk of vulnerabilities and exploits.
+* Access to a large developer community: The Ethereum Virtual Machine (EVM) is the most popular platform for developing decentralized applications, and many developers are already familiar with its programming languages, such as Solidity. By being EVM compatible, Centrifuge can tap into this large developer community, making it easier for developers to build custom dapps on top of the protocol.
+* With Connectors, Centrifuge will support interoperability with other DeFi protocols. Many protocols (i.e. Aave and Maker) are built on the Ethereum blockchain and are EVM compatible. This means that a protocol that is also EVM compatible can easily integrate with these other protocols, enabling users to move their assets and liquidity between different DeFi applications seamlessly.
+
+## Proposal
+To achieve the objective of EVM compatibility for Centrifuge Chain, this proposal is to:
+
+* Evaluate the current state of Centrifuge Chain to determine what changes would be required to make it EVM compatible.
+* Identify any potential risks or challenges associated with implementing EVM compatibility, such as the need for additional testing or potential conflicts with existing features.
+* Develop a first roadmap proposal for implementing EVM compatibility, including
+  * Incorporating Parity’s [Frontier](https://github.com/paritytech/frontier) project, that provides EVM comparability for Substrate based blockchains
+  * Work on the Centrifuge App to support Tinlake to improve the current user experience on Centrifuge
+* Build and test the necessary changes to Centrifuge Chain to ensure that it is fully EVM compatible.
+
+### Technical implementation
+
+* Integrate the following pallets into our runtime
+  * [pallet-evm](https://github.com/paritytech/frontier/tree/polkadot-v0.9.37/frame/evm)
+  * [Pallet-ethereum](https://github.com/paritytech/frontier/tree/polkadot-v0.9.37/frame/ethereum)
+* Expose the [standard Ethereum ](https://ethereum.github.io/execution-apis/api-documentation/)RPC methods on the node using Frontier.
+* Block the deployment of smart contracts.
+* Add one [precompile](https://github.com/paritytech/frontier/tree/polkadot-v0.9.37/frame/evm/precompile/dispatch) to dispatch calls from Ethereum clients.
+* Produce Ethereum compatible blocks in companion with our Substrate blocks.
+* Allow submitting Ethereum transactions as-if they were native extrinsics.
+* Implement support for Ethereum transactions in the Centrifuge App.
+
+This endeavor complements [Connectors](https://gov.centrifuge.io/t/rfc-proposal-to-build-centrifuge-connectors-a-cross-chain-solution-to-connect-centrifuge-chain-with-other-protocols/4616).
+
+## Responsible
+The implementation will be a joint effort of the members of the Engineering Circle at k/factory.
+
+## Alignment to the mission of Centrifuge DAO
+Everyone should be able to interact with Centrifuge and issuers using Centrifuge should be able to onboard investors from any ecosystem including EVM based users. This proposal achieves this by lowering the barrier of entry for Centrifuge users who are already familiar with the EVM and have wallets and infrastructure to interact with it. This proposal to implement EVM compatibility will also enable Centrifuge to benefit from the advantages of the Ethereum ecosystem: adding an additional layer of interoperability, making it more accessible for users. It ensures Centrifuge is the home for RWAs, connected to liquidity on Ethereum.
+
+Link to the RFC on the Forum: https://gov.centrifuge.io/t/rfc-evm-compatibility-for-centrifuge-chain-technical-proposal/5222
