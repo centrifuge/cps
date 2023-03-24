@@ -1,12 +1,12 @@
 ---
-cp: 35
+cp: 39
 title: EVM compatibility on the Centrifuge Chain and Centrifuge App
 authors: annamehr
-contributors:
+contributors: mustermeiszer, jeroen
 proposal-type: CP4 technical
-date-proposed: 2023-02-24
+date-proposed: 2023-03-07
 date-ended: 
-status:  
+status: polling
 ---
 
 ## Short Summary
@@ -23,7 +23,6 @@ The first version of the Centrifuge product (Tinlake) launched on Ethereum in 20
 The primary outcome of such a proposal would be to enable Centrifuge's users to benefit from the advantages of EVM compatibility.
 
 ### Advantages
-
 EVM compatibility provides several advantages for Centrifuge, including:
 
 * Access to existing infrastructure: The Ethereum ecosystem has a robust set of infrastructure providers, such as wallets, explorers, and block explorers. By being EVM compatible, Centrifuge can leverage this existing infrastructure, making it easier for users to interact with the protocol and reducing the friction of adoption.
@@ -32,7 +31,6 @@ EVM compatibility provides several advantages for Centrifuge, including:
 * With Connectors, Centrifuge will support interoperability with other DeFi protocols. Many protocols (i.e. Aave and Maker) are built on the Ethereum blockchain and are EVM compatible. This means that a protocol that is also EVM compatible can easily integrate with these other protocols, enabling users to move their assets and liquidity between different DeFi applications seamlessly.
 
 ## Proposal
-
 To achieve the objective of EVM compatibility for Centrifuge Chain, this proposal is to:
 
 * Evaluate the current state of Centrifuge Chain to determine what changes would be required to make it EVM compatible.
@@ -57,9 +55,7 @@ To achieve the objective of EVM compatibility for Centrifuge Chain, this proposa
 This endeavor complements [Connectors](https://gov.centrifuge.io/t/rfc-proposal-to-build-centrifuge-connectors-a-cross-chain-solution-to-connect-centrifuge-chain-with-other-protocols/4616).
 
 ## Responsible
-
 The implementation will be a joint effort of the members of the Engineering Circle at k/factory.
 
 ## Alignment to the mission of Centrifuge DAO
-
 Everyone should be able to interact with Centrifuge and issuers using Centrifuge should be able to onboard investors from any ecosystem including EVM based users. This proposal achieves this by lowering the barrier of entry for Centrifuge users who are already familiar with the EVM and have wallets and infrastructure to interact with it. This proposal to implement EVM compatibility will also enable Centrifuge to benefit from the advantages of the Ethereum ecosystem: adding an additional layer of interoperability, making it more accessible for users. It ensures Centrifuge is the home for RWAs, connected to liquidity on Ethereum.
