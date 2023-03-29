@@ -15,7 +15,7 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 | [CP6](./cps/CP6.md) | Add a block reward and improve Collator cycle |
 | [CP21](./cps/CP21.md) | Updating Tinlake Rewards Allocation |
 | [CP23](./cps/CP23.md) | Renewal RWA Market rewards proposal |
-| [CP24](./cps/CP24.md) | Runtime Upgrade 1016 |
+| [CP26](./cps/CP26.md) | Runtime Upgrade 1016 |
 | [CP28](./cps/CP28.md) | Centrifuge Protocol Fees |
 | [CP29](./cps/CP29/CP29.md) | Founding Documents of the Centrifuge DAO |
 | [CP32](./cps/CP32.md) | Roadmap Process & Protocol Engineering Group Mandate |
