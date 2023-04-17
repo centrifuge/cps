@@ -31,4 +31,5 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 |---|-------------|
 |[CP39]((./cps/CP39.md)) |EVM compatibility on the Centrifuge Chain and Centrifuge App |
 |[CP40]((./cps/CP40.md)) |Updating Tinlake Rewards Allocation 2023-03 |
+|[CP44]((./cps/CP44.md)) | Runtime Upgrade 1018 |
 
