@@ -51,3 +51,4 @@ Please review the Process (image below) and use the accompanying **POP Process**
 This process attempts to decentralize the onboarding of RWAs and drive decisioning through governance and the Centrifuge Community.
 
 Link to the RFC on the Forum: https://gov.centrifuge.io/t/rfc-pop-v2-pool-onboarding-process-version-2/4875
+Link to the Opensquare Snapshot: https://voting.opensquare.io/space/centrifuge/proposal/QmVoxVW24CWuznqi45cyJby96sS4uFbJ9bDXNJvCX66AuU
