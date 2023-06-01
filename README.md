@@ -9,7 +9,7 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 | [CP0](./cps/CP0/CP0.md) | Centrifuge Proposal Framework |
 | [CP1](./cps/CP1/CP1.md) | CP1 (MRF): Request for Mandate with Funding |
 | [CP2](./cps/CP2/CP2.md) | CP2 (RF): Request for Funding |
-| [CP3](./cps/CP3/CP3.md)  | CP3 (RU) Runtime Upgrades |
+| [CP3](./cps/CP3/CP3.md) | CP3 (RU) Runtime Upgrades |
 | [CP4](./cps/CP4/CP4.md) | CP4 (GI): General Improvements |
 | [CP5](./cps/CP5/CP5.md) | POP (Pool Onboarding Proposal)
 | [CP6](./cps/CP6.md) | Add a block reward and improve Collator cycle |
@@ -22,7 +22,9 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 | [CP34](./cps/CP34.md) | Open HRMP channels between Centrifuge and HydraDX |
 | [CP39](./cps/CP39.md) | EVM compatibility on the Centrifuge Chain and Centrifuge App |
 | [CP40](./cps/CP40.md) | Updating Tinlake Rewards Allocation 2023-03 |
-| [CP45](./cps/CP45.md)  | Runtime Upgrade 1018 |
+| [CP45](./cps/CP45.md) | Runtime Upgrade 1018 |
+| [CP48](./cps/CP48.md) | Listing and CFG Liquidity Incentives on Stellaswap on Moonbeam  |
+
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -31,5 +33,5 @@ This repository contains all submitted Centriuge Proposals. The gensis proposal 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-|[CP48](./cps/CP48.md)  | Listing and CFG Liquidity Incentives on Stellaswap on Moonbeam  |
+|[CP51](./cps/CP51.md)  | Centrifuge Collator Selection Process - Part 2  |
 
