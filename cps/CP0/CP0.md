@@ -82,6 +82,8 @@ As soon as a proposal has moved on to a snapshot vote, the following changes mus
 
 Every 1st and 3rd Monday of the month, all proposals that are ready to proceed to a snapshot vote will be submitted at the same time on OpenSquare. However, if there are time sensitive/urgent proposals, we have the option to start the vote vote anytime.
 
+In the unlikely event that two mutually exclusive proposals (like two groups asking for a mandate to enact the same work stream) will start and end their snapshot votes on OpenSquare at the same time, it will be the proposal with most "Yes" votes (in terms of CFG) that will pass - assuming the quorum for the vote is met as well.
+
 ### On-chain proposal
 
 The next step is to create an on-chain proposal if it is required (see description of each component whether they require it or not).
