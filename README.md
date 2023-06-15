@@ -24,6 +24,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP40](./cps/CP40.md) | Updating Tinlake Rewards Allocation 2023-03 |
 | [CP45](./cps/CP45.md) | Runtime Upgrade 1018 |
 | [CP48](./cps/CP48.md) | Listing and CFG Liquidity Incentives on Stellaswap on Moonbeam  |
+| [CP51](./cps/CP51.md) | Onboarding the 2nd batch of collators  |
+| [CP52](./cps/CP52.md) | Changes to our CP Framework and Governance Process  |
 
 ## Rejected CPs
 |CP | Short title |
@@ -33,7 +35,6 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-|[CP51](./cps/CP51.md)  | Onboarding the 2nd batch of collators  |
-|[CP52](./cps/CP52.md)  | Changes to our CP Framework and Governance Process  |
+
 |[CP53](./cps/CP53.md)  | Listing CFG in HydraDX Omnipool & seeding initial liquidity  |
 
