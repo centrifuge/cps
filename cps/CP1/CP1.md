@@ -18,7 +18,7 @@ An example is the mandated PEG - [Protocol Engineering Group](https://github.com
 
 Mandates do not need to be proposed for defined or very particular types of work. Mandates should be given to a group/individual where coordination and clear responsibilities are a clear efficiency gain for the DAO (as opposed to work that can happen ad hoc, by individuals). 
 
-Work can be initiated and brought to the DAO without a mandate, but no individual or group may claim to be working on behalf of the DAO without a mandate. Mandated groups must have an objective, mandate related deliverables and a method for reporting on deliverables (such as quarterly reports on what the group has achieved and how funds are administered).
+Work can be initiated and brought to the DAO without a mandate, but no individual or group may claim to be working on behalf of the DAO without a mandate. Mandated groups must have an objective, mandate related deliverables and a method for reporting on deliverables (such as quarterly reports on what the group has achieved and how funds are administered). The initial facilitator of the group should also be explicitly stated in the proposal.
 
 A mandate indicates long term commitment (i.e. not a one time service, like creating a video for a specific purpose) and hence on-going funding. The maximum funding period is 6 months. This means that every 6 months, the group or individual would need to re-apply for funding by submitting a CP2.
 
@@ -76,12 +76,12 @@ Alignment to the mission of Centrifuge DAO
 Description of Group
 - Background of the member(s) of the group
 - How do they meet and publish activity? 
-- What are the roles, is there election or selection into this group - how does it work?
+- What are the roles (e.g. who is the Facilitator and how are they selected?), is there election or selection into this group - how does it work?
 
 Delivery and Reporting
 - A timeline of when the objective(s) will be delivered and how this will be reported
 ```
-You can combine a Request for Mandate with a Request for Funding (CP2) in the same proposal by using both a component CP1 and a CP2. Then you would need to add the following in the RFC post, compared to the template above:
+You can combine a Request for Mandate with a Request for Funding ([CP2](https://github.com/centrifuge/cps/blob/main/cps/CP2/CP2.md)) in the same proposal by using both a component CP1 and a CP2. Then you would need to add the following in the RFC post, compared to the template above:
 
 ```
 Uses component: CP1, CP2
@@ -97,11 +97,49 @@ and add the following step to the governance process:
 | --- | --- | :---: |
 |4|Create an on-chain Treasury proposal|-|
 
-**Important:** remember to update the post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
+**Important:** remember to update the Forum post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
 
 # CP1.1 (Changing facilitator)
 
+Groups that have received a mandate via governance voting have full autonomy over how they organise themselves and how their facilitator is selected. The faciliator and the selection process should be clarified in the RFC for the mandate request. The facilitator is the person accountable to the DAO.
 
+Groups should self-select the initial facilitator with a requirement to disclose information such as expertise, experiences, and credentials.
+
+If the facilitator needs to be changed, the group should select one or more candidates, communicating information about their expertise, experiences, and credentials in addition to their justification for why the candidate is fit for the role. Once selected, the GCG should submit an amendment to their CP (where the mandate was obtained) listing the new facilitator, keeping record of all past facilitators. If the group cannot produce any candidates within two weeks of the loss of their initial facilitator, then anyone can come and propose themselves. Essentially, the team uses the forum as a job listing to source candidates.
+
+## GOVERNANCE PROCESS
+
+|STEP|DESCRIPTION|DURATION|
+| --- | --- | :---: |
+|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
+|2|Create a post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content) with an announcement of the change of facilitator|-| |-|
+
+## TEMPLATE
+```
+Title: CPXX: [TITLE OF PROPOSAL]
+
+Tags: cp1.1
+```
+### Body of the RFC must contain:
+
+```
+Uses component: CP1.1
+Author(s): Forum handle(s) of author(s)
+Impacts: [link to the CP where mandate was obtained]
+Date proposed: yyyy-mm-dd
+
+Short Summary 
+- One sentence summary of the proposal
+
+Background
+- What is the background for changing the facilitator?
+
+Description of Process
+- Who is the new facilitator?
+- How was the new faciliator selected?
+
+```
+The XX in the title is from the pull request # from GitHub.
 
 # CP1.2 (Removal of Mandate)
 
@@ -120,7 +158,7 @@ The group itself has autonomy to include and remove members, but in the case tha
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github)|-|
+|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
 |2|Create a post on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content) with an explanation of the revocation of the mandate|-| |-|
 
 Once the announcement has been made, and the proposal has been submitted to the Centrifuge Proposals Repository, the group has automatically been revoked of its mandate. 
@@ -131,11 +169,11 @@ Title: CPXX: [TITLE OF PROPOSAL]
 
 Tags: cp1.2
 ```
-#### Body of the RFC must contain:
+### Body of the RFC must contain:
 ```
-Proposal type: CP1.2
+Uses component: CP1.2
 Author(s): Forum handle(s) of author(s)
-Impacts: [link to the CP1 where mandate was obtained]
+Impacts: [link to the CP where mandate was obtained]
 Date proposed: yyyy-mm-dd
 
 Short Summary 
@@ -144,7 +182,7 @@ Short Summary
 Background
 - What is the background for wanting to remove the mandate of the group/individual?
 ```
-The XX is in the title is from the pull request # from GitHub.
+The XX in the title is from the pull request # from GitHub.
 
 2) *The Community/DAO wants to revoke the mandate of a group/individual in a group*
 
@@ -163,11 +201,11 @@ Title: RFC: [TITLE OF PROPOSAL]
 
 Tags: cp1.2
 ```
-#### Body of the RFC must contain:
+### Body of the RFC must contain:
 ```
-Proposal type: CP1.2
+Uses component: CP1.2
 Author(s): Forum handle(s) of author(s)
-Impacts: [link to the CP1 where mandate was obtained]
+Impacts: [link to the CP where mandate was obtained]
 Date proposed: yyyy-mm-dd
 
 Short Summary 
@@ -176,4 +214,4 @@ Short Summary
 Background
 - What is the background for wanting to remove the mandate of the group/individual?
 ```
-**Important:** remember to update the post as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
+**Important:** remember to update the Forum post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
