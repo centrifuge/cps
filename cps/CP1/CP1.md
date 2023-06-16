@@ -46,7 +46,7 @@ If the snapshot vote passes (majority of CFG votes in favor of giving the mandat
 ```
 Title: RFC: [TITLE OF PROPOSAL]
 
-Tags: cp1
+Tags: cp1, rfc
 ```
 ### Body of the RFC must contain:
 ```

@@ -32,7 +32,7 @@ In the title of this post, the XX is the pull request number from Github.
 
 ```
 Title: CPXX: [Runtime Upgrade #]
-Tags: CP3, runtime-upgrade
+Tags: cp3, runtime-upgrade
 ```
 ### Body of the post must contain:
 ```

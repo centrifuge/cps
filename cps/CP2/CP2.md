@@ -37,7 +37,7 @@ When creating a request for funding, make sure to provide the calculations for t
 ```
 Title: RFC: [TITLE OF PROPOSAL]
 
-Tags: cp2
+Tags: cp2, rfc
 ```
 ### Body of the RFC must contain:
 ```

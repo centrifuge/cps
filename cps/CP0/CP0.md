@@ -133,4 +133,18 @@ Components can have different governance processes, but what they all  have in c
 
 It is very important that a CP is submitted correctly. In the event of an incorrect format of a proposal, the process will need to be repeated.
 
+### Tags
+
+We can distinguish between the different stages of a proposal by adding/removing tags as it progresses through the stages. Suggestions to specific tags and their usage:
+
+*rfc*: add when RFC is created on the forum 
+
+*off-chain-voting*: add when OpenSquare snapshot has been created
+
+*on-chain-voting*: add when referendum is live on-chain
+
+*passed/not-passed*: add appropriate tag when the CP has ended
+
+So after a proposal has moved on from the RFC, the *rfc* tag will be removed and replaced by *off-chain-voting* and so on - so the last tag will be either *passed* or *not-passed* which will remain on the post. 
+
 Please contact the Governance & Coordination Group on the Forum or Discord ([Rhano](https://gov.centrifuge.io/u/Rhano) or [ImdioR](https://gov.centrifuge.io/u/imdior)), if you have any questions regarding the process or need help with submitting a proposal.
