@@ -147,4 +147,6 @@ We can distinguish between the different stages of a proposal by adding/removing
 
 So after a proposal has moved on from the RFC, the *rfc* tag will be removed and replaced by *off-chain-voting* and so on - so the last tag will be either *passed* or *not-passed* which will remain on the post. 
 
+In addition to the tags above, specific tags can be added, depending on what the proposal is about (e.g. *runtime-upgrade*, *governance-process*, *liquidity-rewards*, *pop-submission* etc.) and also which components the proposal consists of (e.g. CP1, CP2, CP3, CP4, CP5 etc.)
+
 Please contact the Governance & Coordination Group on the Forum or Discord ([Rhano](https://gov.centrifuge.io/u/Rhano) or [ImdioR](https://gov.centrifuge.io/u/imdior)), if you have any questions regarding the process or need help with submitting a proposal.
