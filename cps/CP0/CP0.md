@@ -88,12 +88,12 @@ In the unlikely event that two mutually exclusive proposals (like two groups ask
 
 The next step is to create an on-chain proposal if it is required (see description of each component whether they require it or not).
 
-This can be done either as a Democracy Proposal (any token holder can create this) or a Council Motion (only the council can create this).
+This can be done either as a Democracy Proposal/Treasury Proposal (any token holder can create this) or a Council Motion (only the council can create this).
 
-Once an on-chain proposal has been submitted (Democracy or Council), the forum post must be updated with the following information:
+Once an on-chain proposal has been submitted, the forum post must be updated with the following information:
 
 - The Governance process going forward
-- Link to Council Motion/Democracy Proposal (on Subsquare)
+- Link to Council Motion/Democracy Proposal/Treasury Proposal (on Subsquare)
 - Pre-image hash
 
 If the Council Motion/Democracy Proposal passes, update the post again with a link to the referendum (on Subsquare), so everyone can follow the progress of the proposal.
