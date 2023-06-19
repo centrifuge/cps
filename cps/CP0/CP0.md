@@ -53,7 +53,7 @@ In case, some typos/minor errors are found in the proposal after it has been fin
 
 Snapshot (off-chain) voting is generally the next step in the off-chain governance after the RFC. Once there has been adequate discussion, after a minimum of 7 days, and the proposal is submitted to GitHub, a snapshot vote must be created on [OpenSquare](https://voting.opensquare.io/space/centrifuge).
 
-Snapshot votes typically have three options; "Yes", "No", and "Abstain" and there is a quorum of 4M CFG, i.e. if a snapshot has more no than yes votes **or** doesn’t meet the quorum, it will not pass. Votes for “Abstain” count towards the quorum and if a snapshot has more "Abstain" votes, then the option with the 2nd highest votes determines the outcome.
+Snapshot votes typically have three options; "Yes", "No", and "Abstain" and there is a **quorum of 4M CFG**, i.e. if a snapshot has more no than yes votes **or** doesn’t meet the quorum, it will not pass. Votes for “Abstain” count towards the quorum and if a snapshot has more "Abstain" votes, then the option with the 2nd highest votes determines the outcome.
 
 However, not all proposals require an off-chain vote.
 
@@ -68,10 +68,11 @@ However, not all proposals require an off-chain vote.
 
 - When a proposal is followed by an on-chain vote right after the off-chain vote
 
-**Snapshot voting is NOT required**
+**Snapshot voting is NOT required for**
 
-- For Funding Requests (CP2)
-- For Runtime Upgrades (CP3 and CP3.1)
+- Funding Requests (CP2)
+- Runtime Upgrades (CP3 and CP3.1)
+- POPs (CP5)
 
 The minimum voting time for snapshots on OpenSquare is 7 days but the proposer could increase this to any amount of days, if they deem it necessary. This information has to be communicated to the community in the Forum post. 
 
