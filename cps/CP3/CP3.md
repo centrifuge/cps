@@ -4,16 +4,17 @@ title: Centrifuge Proposal Framework
 authors: Governance and Coordination Group (ImdioR, Orhan)
 date proposed: 2022-10-18
 date passed: 2022-11-12
+date-modified: 2023-06-16
 status: passed
 ---
 
-# CP3 (RU) Runtime Upgrades 
+# CP3 (Runtime Upgrades) 
 
 CP3 is used to propose Runtime Upgrades. Runtime Upgrades allow developers and community members to change the logic of the chain, or parameter for pallets, without the need for a hard fork.
 
 Runtime Upgrades may contain previously passed CP4s (General Improvements) - this will be specified in the Proposal post.
 
-### GOVERNANCE PROCESS
+## GOVERNANCE PROCESS
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
@@ -24,18 +25,18 @@ Runtime Upgrades may contain previously passed CP4s (General Improvements) - thi
 
 If the referendum vote passes, the Runtime Upgrade will be enacted. The Council can choose to fast track the referendum at their discretion.
 
-### TEMPLATE
-Note that this post is not an RFC, but a Proposal post. 
+## TEMPLATE
+Note that this post is not an RFC. 
 
-In the title of this post, the XXXX is the pull request number from Github and YY is the abbreviation for the proposal type, e.g. (MRF), (RU) etc.
+In the title of this post, the XXX is the pull request # from Github.
 
 ```
-Title: CPXXXX (RU): [Runtime Upgrade #]
-Tags: CP-3, month, year
+Title: CPXXX: [Runtime Upgrade #]
+Tags: cp3, runtime-upgrade
 ```
-#### Body of the post must contain:
+### Body of the post must contain:
 ```
-Proposal type: CP3
+Uses component: CP3
 Author(s): Forum handle(s) of author(s)
 Contributor(s): Forum handle(s) of contributor(s)
 Proposal on Proposal Repository (Github): INSERT LINK
@@ -43,7 +44,7 @@ Date proposed: yyyy-mm-dd
 
 List of content of this Runtime Upgrade
 - Added functionalities, changed parameters etc.
-- If CP4s are included, link to their Proposal post
+- If CP4s are included, link to them on GitHub
 
 Detailed description of each content 
 - Describe the different content above in details
@@ -53,7 +54,7 @@ Governance process for this proposal
 - Duration of referendum vote
 ```
 
-#  CP3.1 (EP) Emergency Proposals
+# CP3.1 (Emergency Proposals)
 
 CP3.1 is used to propose emergency proposals in order to avoid or prevent hacks, exploits, attacks, or network halts.
 
@@ -65,10 +66,10 @@ Given that a public disclosure of a bug, exploit, or hack may lead to (further) 
 
 These types of proposals will be fast-tracked and the voting window in the referendum **may be as short as 3 hours**.
 
-### GOVERNANCE PROCESS
+## GOVERNANCE PROCESS
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
 |1|Create a post-mortem on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) with a description of the issue, along with the fix for it  |-|
 
-### TEMPLATE
+## TEMPLATE
 This proposal type doesn’t require any template.

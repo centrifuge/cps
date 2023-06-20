@@ -6,6 +6,7 @@ contributors: Jay
 proposal-type: CP4 non-technical
 date-proposed: 2022-12-14
 date-ended: 2023-03-02
+date-modified: 2023-06-19
 status: passed
 ---
 
@@ -36,7 +37,7 @@ This proposal hopes to accomplish:
 * An immediate term way for easier access to the Pools and better investor engagement around high quality opportunities reviewed by the Credit Group
 * A more clear outline of requirements and process to launch a Pool through Centrifuge
 
-This version of the POP is simpler, provides off-chain voting to CFG token holders, and places the [Credit Group](https://gov.centrifuge.io/t/poll-formation-of-credit-group/3911) more prominently into the process, to report on each POP.
+This version of the POP is simpler, provides on-chain voting to CFG token holders, and places the [Credit Group](https://gov.centrifuge.io/t/poll-formation-of-credit-group/3911) more prominently into the process, to report on each POP.
 
 Please review the Process (image below) and use the accompanying **POP Process** appendix, which includes an explanation for each step above. There have also been adjustments to allow for more subjectivity and more description in the **POP Proposal Template**, while intending to be more helpful through the **POP Proposal Guidance**, which will be agreed upon by the Community to help provide guidance and direction to POPs before they submit a POP through governance.
 
