@@ -78,7 +78,7 @@ The minimum voting time for snapshots on OpenSquare is 7 days but the proposer c
 
 As soon as a proposal has moved on to a snapshot vote, the following changes must be made to the Forum post:
 
-- Change the prefix in the title of the Forum post from RFC to CPXX (XX is the pull request # from GitHub)
+- Change the prefix in the title of the Forum post from RFC to CPXXX (XXX is the pull request # from GitHub)
 - Update the original post with the link to the snapshot vote on OpenSquare 
 
 Every 1st and 3rd Monday of the month, all proposals that are ready to proceed to a snapshot vote will be submitted at the same time on OpenSquare. However, if there are time sensitive/urgent proposals, we have the option to start the vote vote anytime.

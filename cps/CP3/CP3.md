@@ -28,10 +28,10 @@ If the referendum vote passes, the Runtime Upgrade will be enacted. The Council 
 ## TEMPLATE
 Note that this post is not an RFC. 
 
-In the title of this post, the XX is the pull request number from Github.
+In the title of this post, the XXX is the pull request # from Github.
 
 ```
-Title: CPXX: [Runtime Upgrade #]
+Title: CPXXX: [Runtime Upgrade #]
 Tags: cp3, runtime-upgrade
 ```
 ### Body of the post must contain:

@@ -139,7 +139,7 @@ Description of Process
 - How was the new faciliator selected?
 
 ```
-The XX in the title is from the pull request # from GitHub.
+The XXX in the title is from the pull request # from GitHub.
 
 # CP1.2 (Removal of Mandate)
 
@@ -165,7 +165,7 @@ Once the announcement has been made, and the proposal has been submitted to the 
 
 ## TEMPLATE
 ```
-Title: CPXX: [TITLE OF PROPOSAL]
+Title: CPXXX: [TITLE OF PROPOSAL]
 
 Tags: cp1.2
 ```
@@ -182,7 +182,7 @@ Short Summary
 Background
 - What is the background for wanting to remove the mandate of the group/individual?
 ```
-The XX in the title is from the pull request # from GitHub.
+The XXX in the title is from the pull request # from GitHub.
 
 2) *The Community/DAO wants to revoke the mandate of a group/individual in a group*
 
