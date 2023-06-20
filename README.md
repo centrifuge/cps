@@ -35,6 +35,5 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-
 |[CP53](./cps/CP53.md)  | Listing CFG in HydraDX Omnipool & seeding initial liquidity  |
 
