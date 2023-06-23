@@ -7,7 +7,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 | [CP0](./cps/CP0/CP0.md) | Centrifuge Proposal Framework |
-| [CP1](./cps/CP1/CP1.md) | Request for Mandate with Funding |
+| [CP1](./cps/CP1/CP1.md) | Request for Mandate |
 | [CP2](./cps/CP2/CP2.md) | Request for Funding |
 | [CP3](./cps/CP3/CP3.md) | Runtime Upgrades |
 | [CP4](./cps/CP4/CP4.md) | General Improvements |
