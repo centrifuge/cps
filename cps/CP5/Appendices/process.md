@@ -16,8 +16,8 @@ Before the Credit Group reviews the submitted POP (Stage 2), a Forum moderator r
 
 ## Stage 3 - Approval
 
-3 OpenSquare Snapshot: The POP applicant will submit their POP to Github beforehand, and the Governance & Coordination Group can facilitate if needed. It will then be submitted for an OpenSquare Snapshot vote to determine if the POP will pass.
+3 On-chain voting: The POP applicant will submit their POP to Github beforehand, and the Governance & Coordination Group can facilitate the GitHub submission if needed. An on-chain proposal will then be created in the Centrifuge App for all CFG token holders to vote on in order to determine if the POP will pass.
 
 ## Stage 4 - Launch
 
-4 Pool Launch: If the OpenSquare Snapshot vote (3) passes, the POP will launch.
+4 Pool Launch: If the on-chain vote (3) passes, the POP will launch.
