@@ -27,7 +27,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP51](./cps/CP51.md) | Onboarding the 2nd batch of collators  |
 | [CP52](./cps/CP52.md) | Changes to our CP Framework and Governance Process  |
 | [CP53](./cps/CP53.md) | Listing CFG in HydraDX Omnipool & seeding initial liquidity  |
-
+| [CP54](./cps/CP54.md) | Runtime Upgrade 1019  |
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -36,4 +36,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-|[CP54](./cps/CP54.md)  | Runtime Upgrade 1019  |
+|[CP57](./cps/CP57.md)  | Treasury Proposal: Distribution of unpaid Collators rewards |
