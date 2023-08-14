@@ -38,3 +38,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 [CP58](./cps/CP58.md)  | Treasury Spending Agreement |
+[CP59](./cps/CP59.md)  | Linked Pools |
