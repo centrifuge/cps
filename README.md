@@ -29,6 +29,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP53](./cps/CP53.md) | Listing CFG in HydraDX Omnipool & seeding initial liquidity  |
 | [CP54](./cps/CP54.md) | Runtime Upgrade 1019  |
 | [CP57](./cps/CP57.md)  | Treasury Proposal: Distribution of unpaid Collators rewards |
+| [CP58](./cps/CP58.md)  | Treasury Spending Agreement |
+| [CP59](./cps/CP59.md)  | Linked Pools |
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -37,5 +39,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-[CP58](./cps/CP58.md)  | Treasury Spending Agreement |
-[CP59](./cps/CP59.md)  | Linked Pools |
+[CP61](./cps/CP61.md)  | Pool Rewards Parameters  |
