@@ -32,6 +32,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP58](./cps/CP58.md)  | Treasury Spending Agreement |
 | [CP59](./cps/CP59.md)  | Linked Pools |
 | [CP61](./cps/CP61.md)  | Pool Rewards Parameters  |
+
+
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -40,3 +42,5 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP63](./cps/CP63.md)  | Definitions of Pool Types & Categories  |
+| [CP64](./cps/CP64.md)  | Runtime Upgrade 1020  |
