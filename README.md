@@ -44,3 +44,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 | [CP63](./cps/CP63.md)  | Definitions of Pool Types & Categories  |
+| [CP66](./cps/CP66/CP66.md)  | POP: Anemoy Liquid Treasury Fund 1 |
