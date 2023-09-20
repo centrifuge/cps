@@ -34,7 +34,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP61](./cps/CP61.md)  | Pool Rewards Parameters  |
 | [CP64](./cps/CP64.md)  | Runtime Upgrade 1020  |
 | [CP66](./cps/CP66/CP66.md)  | POP: Anemoy Liquid Treasury Fund 1 |
-
+| [CP63](./cps/CP63.md)  | Definitions of Pool Types & Categories  |
 
 ## Rejected CPs
 |CP | Short title |
@@ -44,4 +44,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP63](./cps/CP63.md)  | Definitions of Pool Types & Categories  |
+| [CP66](./cps/CP68/CP68.md)  | Update the Pool Onboarding Proposal for Open Pools (POP) – Version 3 |
