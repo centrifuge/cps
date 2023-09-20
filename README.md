@@ -44,4 +44,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP66](./cps/CP68/CP68.md)  | Update the Pool Onboarding Proposal for Open Pools (POP) – Version 3 |
+| [CP68](./cps/CP68/CP68.md)  | Update the Pool Onboarding Proposal for Open Pools (POP) – Version 3 |
