@@ -1,23 +1,15 @@
 # POP - Process
+![](../CP5/Appendices/popv3s.png)
 
-## Stage 1 - Present
+## Step 1 - Propose Pool
+- Submit POP to the community governance forum for a Request For Comment (RFC) period.
+ - Allow for a minimum of 7 days for discussion with the community and the Centrifuge Credit Group, who may volunteer to do an analysis of the proposed pool at their own discretion and share it with the community. Credit Group participation is not guaranteed.
+-  The Applicant can host a Pool Party if they would like to engage with community and allow the community to ask questions.
 
-1.1 Applicant Introduction (Optional): An opportunity for the applicant to introduce themselves and tell their story in a less formal post shared with the Community.
-
-1.2 POP Post: The applicant submits their POP through the Forum for review, discussion, and consideration by the Credit Group. An informal intro on the Centrifuge Forum could inform the community of your impending POP, potentially leading to better discussion and engagement, and we hope you will take this opportunity to do so.
-
-Before the Credit Group reviews the submitted POP (Stage 2), a Forum moderator reviews their submission to ensure it is complete, the criteria are entered correctly, and then provides a brief summary of the main points. A Forum discussion can occur in advance of the Credit Group Report.
-
-## Stage 2 - Review
-
-2.1 Credit Group Report (Optional): The Credit Group has the option to engage directly with the applicant, review the POP, and then share a report with the community.
-
-2.2 Pool Party (Optional): A Pool Party is an option to be hosted by the applicant before the next steps to generate excitement and engage the Centrifuge Community through a conference call.
-
-## Stage 3 - Approval
-
-3 On-chain voting: The POP applicant will submit their POP to Github beforehand, and the Governance & Coordination Group can facilitate the GitHub submission if needed. An on-chain proposal will then be created in the Centrifuge App for all CFG token holders to vote on in order to determine if the POP will pass.
-
-## Stage 4 - Launch
-
-4 Pool Launch: If the on-chain vote (3) passes, the POP will launch.
+## Step 2 - Launch
+- To prepare to launch the pool, the POP must go to a vote.
+- For an on-chain vote, the applicant must submit their POP to Github. The Governance & Coordination Group (@ImdioR or @Rhano) can help facilitate the GitHub submission if needed.
+- An on-chain proposal is then initiated directly from the Centrifuge App to sub-square for all CFG token holders to vote on (Minimum of 7 days). If it passes the vote the pool will be live on the Centrifuge app.
+Propose a pool (RFC using the POP template) - minimum 7 day discussion
+- During this period the Credit Group may choose work with the issuer to publish an assessment of the pool
+- The prospective issuer should engage the community and utilize Governance Calls, 1:1 relationships and the Forum, in order to gather support for their POP
