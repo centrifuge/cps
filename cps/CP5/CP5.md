@@ -66,6 +66,6 @@ Link to the Opensquare Snapshot: https://voting.opensquare.io/p/138
 
 This proposal was modified:
 
-2023-03-02 [CP5 (GI): POP - Pool Onboarding Process](https://voting.opensquare.io/p/121)
-2023-06-13 [CP52](https://github.com/centrifuge/cps/blob/main/cps/CP52.md) 
-2023-09-28 [CP68](https://github.com/centrifuge/cps/blob/main/cps/CP68/CP68.md)  
+- 2023-03-02 [CP5 (GI): POP - Pool Onboarding Process](https://voting.opensquare.io/p/121)
+- 2023-06-13 [CP52](https://github.com/centrifuge/cps/blob/main/cps/CP52.md) 
+- 2023-09-28 [CP68](https://github.com/centrifuge/cps/blob/main/cps/CP68/CP68.md)  
