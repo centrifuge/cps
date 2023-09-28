@@ -43,7 +43,7 @@ We propose to shorten the POP to become 2 Steps:
 * During this period the Credit Group may choose work with the issuer to publish an assessment of the pool
 * The prospective issuer should engage the community and utilize Governance Calls, 1:1 relationships and the Forum, in order to gather support for their POP
 
-2. Onchain governance vote to onboard Pool - minimum 7 day voting period :
+2. Onchain governance vote to onboard Pool - minimum 7 day voting period 
 
 After 7 days of discussion and engagement of Step 1 (the RFC) the issuer can propose the pool launch by submitting the democracy proposal. To speed up the process the issuer can petition the council to fasttrack the proposal.
 
