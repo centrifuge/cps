@@ -30,7 +30,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP54](./cps/CP54.md) | Runtime Upgrade 1019  |
 | [CP57](./cps/CP57.md)  | Treasury Proposal: Distribution of unpaid Collators rewards |
 | [CP58](./cps/CP58.md)  | Treasury Spending Agreement |
-| [CP59](./cps/CP59.md)  | Linked Pools |
+| [CP59](./cps/CP59/CP59.md)  | Linked Pools |
 | [CP61](./cps/CP61.md)  | Pool Rewards Parameters  |
 | [CP63](./cps/CP63.md)  | Definitions of Pool Types & Categories  |
 | [CP64](./cps/CP64.md)  | Runtime Upgrade 1020  |
@@ -45,3 +45,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP73](./cps/CP73.md)  | Runtime Upgrade 1023  |
