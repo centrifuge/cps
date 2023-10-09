@@ -45,3 +45,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP73](./cps/CP73.md)  | Runtime Upgrade 1023  |
