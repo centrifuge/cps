@@ -37,6 +37,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP66](./cps/CP66/CP66.md)  | POP: Anemoy Liquid Treasury Fund 1 |
 | [CP68](./cps/CP68/CP68.md)  | Update the Pool Onboarding Proposal for Open Pools (POP) – Version 3 |
 | [CP73](./cps/CP73.md)  | Runtime Upgrade 1023  |
+| [CP74](./cps/CP74.md)  | Updating Transaction Fees for Pools  |
 
 ## Rejected CPs
 |CP | Short title |
@@ -46,4 +47,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP74](./cps/CP74.md)  | Updating Transaction Fees for Pools  |
+
