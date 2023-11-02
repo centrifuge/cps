@@ -47,4 +47,5 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP76](./cps/CP76.md)  | Extend Parachain Lease  |
 
