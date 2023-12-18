@@ -39,6 +39,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP73](./cps/CP73.md)  | Runtime Upgrade 1023  |
 | [CP74](./cps/CP74.md)  | Updating Transaction Fees for Pools  |
 | [CP76](./cps/CP76.md)  | Extend Parachain Lease  |
+| [CP78](./cps/CP78.md)  | Runtime Upgrade 1024  |
+
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -47,5 +49,5 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP78](./cps/CP78.md)  | Runtime Upgrade 1024  |
+
 
