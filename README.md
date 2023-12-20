@@ -49,5 +49,5 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-
+| [CP80](./cps/CP80.md)  | CP80: Registering Frax token and allowing trading Frax <> USDC  |
 
