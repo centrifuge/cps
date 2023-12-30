@@ -40,6 +40,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP74](./cps/CP74.md)  | Updating Transaction Fees for Pools  |
 | [CP76](./cps/CP76.md)  | Extend Parachain Lease  |
 | [CP78](./cps/CP78.md)  | Runtime Upgrade 1024  |
+| [CP80](./cps/CP80.md)  | Registering Frax token and allowing trading Frax <> USDC  |
+| [CP81](./cps/CP81.md)  | Unclaimed Tinlake Rewards   |
 
 ## Rejected CPs
 |CP | Short title |
@@ -49,6 +51,3 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP80](./cps/CP80.md)  | Registering Frax token and allowing trading Frax <> USDC  |
-| [CP81](./cps/CP81.md)  | Unclaimed Tinlake Rewards   |
-
