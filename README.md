@@ -51,3 +51,4 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP83](./cps/CP83.md)  | Updating CP28 Centrifuge Protocol Fees    |
