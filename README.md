@@ -42,6 +42,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP78](./cps/CP78.md)  | Runtime Upgrade 1024  |
 | [CP80](./cps/CP80.md)  | Registering Frax token and allowing trading Frax <> USDC  |
 | [CP81](./cps/CP81.md)  | Unclaimed Tinlake Rewards   |
+| [CP83](./cps/CP83.md)  | Updating CP28 Centrifuge Protocol Fees    |
+| [CP84](./cps/CP84.md)  | Unclaimed Polkadot Rewards    |
 
 ## Rejected CPs
 |CP | Short title |
@@ -51,7 +53,6 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP83](./cps/CP83.md)  | Updating CP28 Centrifuge Protocol Fees    |
-| [CP84](./cps/CP84.md)  | Unclaimed Polkadot Rewards    |
+
 
 
