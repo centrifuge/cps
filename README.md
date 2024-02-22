@@ -53,6 +53,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP86](./cps/CP86.md)  | OpenGov Technical Committee Mandate Request    |
 
 
 
