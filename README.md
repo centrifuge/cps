@@ -56,6 +56,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 
+| [CP90](./cps/CP90.md)  | Recovery of lost CFG tokens    |
 
 
 
