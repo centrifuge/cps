@@ -45,6 +45,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP83](./cps/CP83.md)  | Updating CP28 Centrifuge Protocol Fees    |
 | [CP84](./cps/CP84.md)  | Unclaimed Polkadot Rewards    |
 | [CP86](./cps/CP86.md)  | OpenGov Technical Committee Mandate Request    |
+| [CP87](./cps/CP87.md)  | Roadmap Proposal 1    |
 
 ## Rejected CPs
 |CP | Short title |
@@ -54,7 +55,8 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP87](./cps/CP87.md)  | Roadmap Proposal 1    |
+
 | [CP90](./cps/CP90.md)  | Recovery of lost CFG tokens    |
+
 
 
