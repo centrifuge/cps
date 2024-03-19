@@ -57,7 +57,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| | |
+| [CP94](./cps/CP94.md)  | Runtime Upgrade 1027    |
 
 
 
