@@ -6,6 +6,7 @@ advisors: Cassidy, Miguel
 proposal-type: CP4 technical
 date-proposed: 2022-11-16
 date-ended: 2022-12-17
+date-modified: 2023-09-28
 status: passed
 ---
 ## Short Summary
@@ -38,33 +39,35 @@ Based on [this proposal](https://gov.centrifuge.io/t/centrifuge-council-collator
 
 It is technically difficult and inefficient to implement this reward per block, therefore it is proposed to use an epoch mechanism to distribute the block reward to the treasury and to collators. The epoch period suggested is 12 hours. The collator set changes every 12 hours (2 sessions), so matching the epoch end to the collator cycles will minimize the situation where a collator that is removed from the set in the first half (for example) will not get any reward at the end of the epoch.
 
-If the reward period for collators is reduced to 2x daily, then that amount would be 1000CFG / 30 days / 2 = 16.65 CFG/epoch
+If the reward period for collators is reduced to 2x daily, then that amount would be 1000 CFG / 30 days / 2 = 16.65 CFG/epoch
 
 At each epoch close 16.65 CFG * number_of_collators will be distributed to collators and the remainder of the block reward will be minted into the Treasury.
 
 This block reward is important for the future of the Centrifuge protocol and the Community and we would like to keep the same rewards rate as before, 3%. This parameter could be reevaluated by the Community in the future if needed.
 
-### Calculation:
+### Calculation
 ```
-Block rewards = Annual Inflation/Total blocks produced in 1 year = (14670570 CFG/year)/(2628000 blocks/year) ≈ 5.5824 CFG/block
-
-Inflation - 3% (14.67M CFG)
-Total Supply - 489.019M CFG
-Block production ≈ 12 sec/block,3600 blocks/12 hours, 7200 blocks/day, 2628000 blocks/year.
-Every epoch 20,096 CFG is minted into the on-chain Treasury.
+Annual Inflation - 3%
+Total Supply - 519.9M CFG ( Dynamic )
+Block production ≈ 12 sec/block, 1800 blocks/6 hours, 3600 blocks/12 hours, 7200 blocks/day, 2628000 blocks/year.
 
 Calculation of block rewards:
-The amount will be minted every epoch (12 hours):
+The rewards will be minted every session (6 hours).
 
-1 epoch =( Block Rewards x 3600 blocks/12 hours)=(5.5824 CFG/block x 3600 blocks/12 hours)= 20,096 CFG
+* Block rewards = Annual Inflation/Total blocks produced in 1 year = ( Annual Inflation CFG/year)/(2628000 blocks/year)
+* 1 epoch rewards = ( Block Rewards x 3600 blocks/12 hours )
+* 1 session rewards = ( Rewards per epoch / 2 sessions per epoch )
+* Collator rewards = 16.65 CFG per collator per epoch / 2 sessions per epoch = 8.325 CFG = 8325 * MILLI_CFG per collator
 
-In this regard, and in connection with the foregoing, I propose:
 ```
+In this regard, and in connection with the foregoing, I propose:
+
 ## Change or improvement:
 
-* Activate block rewards and mint 20096 CFG each epoch into the on-chain Treasury.
-* Set daily collator rewards in line with epoch - 16.65CFG/epoch
-* Set epoch period for rewards - 12 hours 
+* Activate block rewards and mint treasury rewards at every session (6 hours) into the on-chain Treasury.
+* Set daily collator rewards in line with epoch - 16.65 CFG/epoch
+* Set the session duration - 6 hours
+* Set the epoch duration - 12 hours 
   
 ## Responsible to implement: 
 
@@ -80,3 +83,7 @@ With a funded Treasury, any individual or group following CP Framework could off
 Link to the RFC on the Forum: https://gov.centrifuge.io/t/rfc-add-a-block-reward-and-improve-collators-cycle/4766
 
 Link to the Opensquare Snapshot: https://voting.opensquare.io/p/102
+
+
+This proposal was modified:
+- 2023-03-22 [CP94](https://github.com/centrifuge/cps/blob/main/cps/CP94.md)
