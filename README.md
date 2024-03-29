@@ -59,6 +59,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 | [CP95](./cps/CP95/CP95.md)  | POP: New Silver NS3    |
+| [CP98](./cps/CP98.md)  | Runtime Upgrade 1028    |
 
 
 
