@@ -49,7 +49,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 | [CP90](./cps/CP90.md)  | Recovery of lost CFG tokens    |
 | [CP92](./cps/CP92.md)  | Runtime Upgrade 1026    |
 | [CP94](./cps/CP94.md)  | Runtime Upgrade 1027    |
-
+| [CP98](./cps/CP98.md)  | Runtime Upgrade 1028    |
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
@@ -59,7 +59,7 @@ This repository contains all submitted Centriuge Proposals. The genesis proposal
 |CP | Short title |
 |---|-------------|
 | [CP95](./cps/CP95/CP95.md)  | POP: New Silver NS3    |
-| [CP98](./cps/CP98.md)  | Runtime Upgrade 1028    |
+
 
 
 
