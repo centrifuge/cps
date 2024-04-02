@@ -32,7 +32,7 @@ In our proposal to become a core group in the Centrifuge DAO, and get a mandate 
 
 ### Request For Comments (RFC)
 
-Creating an RFC is always the first step of a proposal and the off-chain governance. This is posted on the Forum and the purpose is to give the Community the opportunity to provide feedback and ask questions and gauge support for the proposal. If changes are made to the proposal, based on the feedback from the Community, they should be done in this step.
+Creating an RFC is always the first step of a proposal and the offchain governance. This is posted on the Forum and the purpose is to give the Community the opportunity to provide feedback and ask questions and gauge support for the proposal. If changes are made to the proposal, based on the feedback from the Community, they should be done in this step.
 
 Some proposals may require longer time for discussion than others. The minimum time an RFC should be running is 7 days but we strongly encourage 14 days or more. The proposer decides how long an RFC should run before moving on to an OpenSquare Snapshot.
 
@@ -40,7 +40,7 @@ In the templates for each component, there is a description of what the RFC shou
 
 ### The Centrifuge Proposals Repository (PR)
 
-All proposals must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (PR) on Github which is used to log all proposals. The discussion (RFC) takes place on the Forum, and if there are any changes made to the proposal, it must happen via the PR during the RFC phase, i.e. before the proposal proceeds to a snapshot vote/on-chain vote. 
+All proposals must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (PR) on Github which is used to log all proposals. The discussion (RFC) takes place on the Forum, and if there are any changes made to the proposal, it must happen via the PR during the RFC phase, i.e. before the proposal proceeds to a snapshot vote/onchain vote. 
 
 This is to ensure that a proposal is not changed during a snapshot vote or after it has ended.
 A proposal is only deemed valid, if it has been submitted to the PR.
@@ -51,22 +51,22 @@ In case, some typos/minor errors are found in the proposal after it has been fin
 
 ### Snapshot voting
 
-Snapshot (off-chain) voting is generally the next step in the off-chain governance after the RFC. Once there has been adequate discussion, after a minimum of 7 days, and the proposal is submitted to GitHub, a snapshot vote must be created on [OpenSquare](https://voting.opensquare.io/space/centrifuge).
+Snapshot (offchain) voting is generally the next step in the offchain governance after the RFC. Once there has been adequate discussion, after a minimum of 7 days, and the proposal is submitted to GitHub, a snapshot vote must be created on [OpenSquare](https://voting.opensquare.io/space/centrifuge).
 
 Snapshot votes typically have three options; "Yes", "No", and "Abstain" and there is a **quorum of 4M CFG**, i.e. if a snapshot has more no than yes votes **or** doesn’t meet the quorum, it will not pass. Votes for “Abstain” count towards the quorum and if a snapshot has more "Abstain" votes, then the option with the 2nd highest votes determines the outcome.
 
-However, not all proposals require an off-chain vote.
+However, not all proposals require an offchain vote.
 
 **Snapshot voting is required**
 
-- When a proposal does not require an on-chain vote*, i.e. proposals that does not change anything on-chain (e.g. mandate requests, changes to our governance process etc.)
-- When a proposal is not going to be followed by an on-chain vote straight after, i.e. proposals that are going to be implemented later (e.g. part of a Runtime Upgrade)
+- When a proposal does not require an onchain vote*, i.e. proposals that does not change anything onchain (e.g. mandate requests, changes to our governance process etc.)
+- When a proposal is not going to be followed by an onchain vote straight after, i.e. proposals that are going to be implemented later (e.g. part of a Runtime Upgrade)
 
-**If a proposal does not require an on-chain vote, the snapshot vote will be binding (i.e. if the snapshot vote passes, the proposal passes).*
+**If a proposal does not require an oncchain vote, the snapshot vote will be binding (i.e. if the snapshot vote passes, the proposal passes).*
 
 **Snapshot voting is optional**
 
-- When a proposal is followed by an on-chain vote right after the off-chain vote
+- When a proposal is followed by an onchain vote right after the offchain vote
 
 **Snapshot voting is NOT required for**
 
@@ -85,13 +85,13 @@ Every 1st and 3rd Monday of the month, all proposals that are ready to proceed t
 
 In the unlikely event that two mutually exclusive proposals (like two groups asking for a mandate to enact the same work stream) will start and end their snapshot votes on OpenSquare at the same time, it will be the proposal with most "Yes" votes (in terms of CFG) that will pass - assuming the quorum for the vote is met as well.
 
-### On-chain proposal
+### Onchain proposal
 
-The next step is to create an on-chain proposal if it is required (see description of each component whether they require it or not).
+The next step is to create an onchain proposal if it is required (see description of each component whether they require it or not).
 
 This can be done either as a Democracy Proposal/Treasury Proposal (any token holder can create this) or a Council Motion (only the council can create this).
 
-Once an on-chain proposal has been submitted, the forum post must be updated with the following information:
+Once an onchain proposal has been submitted, the forum post must be updated with the following information:
 
 - The Governance process going forward
 - Link to Council Motion/Democracy Proposal/Treasury Proposal (on Subsquare)
@@ -102,7 +102,7 @@ If the Council Motion/Democracy Proposal passes, update the post again with a li
 ### Cooling-off period
 
 A cooling-off period is the time that must pass before a proposal can be re-submitted. 
-If a proposal fails to pass an off-chain or an on-chain vote, the cooling-off period is 15 days (counting from when the snapshot vote has ended) before a new RFC can be resubmitted.
+If a proposal fails to pass an offchain or an onchain vote, the cooling-off period is 15 days (counting from when the snapshot vote has ended) before a new RFC can be resubmitted.
 
 The cooling-off period is important in order to take the feedback from the Community into account and make the necessary changes to the submitted proposal, and re-submit the RFC.
 
@@ -122,13 +122,13 @@ These are the components in our CP Framework:
 |[CP5](../CP5/CP5.md)|Centrifuge Pool Onboarding Proposal (POP)|Onboarding new pools on Centrifuge Chain|
 |[CP32](../CP32.md)|Roadmap Proposals|Create a Roadmap Proposal to replace the previous one|
 
-In general, the Governance process can be divided into two parts; *off-chain* and *on-chain Governance*.
+In general, the Governance process can be divided into two parts; *offchain* and *onchain Governance*.
 
-*Off-chain Governance:*
-This refers to the part of the process that takes place on our Forum (Request For Comments) and OpenSquare (snapshot voting). The purpose of this is generally to get input from the Community on a proposal and gather support, before moving the proposal on-chain (if necessary - not all proposals need to be submitted on-chain in order to pass).
+*Offchain Governance:*
+This refers to the part of the process that takes place on our Forum (Request For Comments) and OpenSquare (snapshot voting). The purpose of this is generally to get input from the Community on a proposal and gather support, before moving the proposal onchain (if necessary - not all proposals need to be submitted onchain in order to pass).
 
-*On-chain Governance:*
-This refers to the part of the process that takes places on the blockchain. First a proposal is created on-chain (can be done by either the public or the Council) and this is generally followed by an on-chain referendum where all token holders can vote Aye or Nay.
+*Onchain Governance:*
+This refers to the part of the process that takes places on the blockchain. First a proposal is created onchain (can be done by either the public or the Council) and this is generally followed by an onchain referendum where all token holders can vote Aye or Nay.
 
 Components can have different governance processes, but what they all  have in common is that they start with a post on the Forum and all CPs must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) on Github.
 
@@ -140,13 +140,13 @@ We can distinguish between the different stages of a proposal by adding/removing
 
 *rfc*: add when RFC is created on the forum 
 
-*off-chain-voting*: add when OpenSquare snapshot has been created
+*offchain-voting*: add when OpenSquare snapshot has been created
 
-*on-chain-voting*: add when referendum is live on-chain
+*onchain-voting*: add when referendum is live onchain
 
 *passed/not-passed*: add appropriate tag when the CP has ended
 
-So after a proposal has moved on from the RFC, the *rfc* tag will be removed and replaced by *off-chain-voting* and so on - so the last tag will be either *passed* or *not-passed* which will remain on the post. 
+So after a proposal has moved on from the RFC, the *rfc* tag will be removed and replaced by *offchain-voting* and so on - so the last tag will be either *passed* or *not-passed* which will remain on the post. 
 
 In addition to the tags above, specific tags can be added, depending on what the proposal is about (e.g. *runtime-upgrade*, *governance-process*, *liquidity-rewards*, *pop-submission* etc.) and also which components the proposal consists of (e.g. CP1, CP2, CP3, CP4, CP5 etc.)
 
