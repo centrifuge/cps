@@ -29,9 +29,10 @@ These are proposals that do not require a change on the blockchain, and hence do
 |2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
 |3|Create a snapshot vote on [OpenSquare](https://voting.opensquare.io/space/centrifuge)|Exactly 7 days|
 
-For **non-technical proposals**, the process ends here and if the snapshot vote passes (majority of CFG votes in favor of the proposal and quorum met), the proposal passes. 
+For proposals without any onchain changes or if the changes are to be implemented in a later runtime upgrade the process ends here and if the snapshot vote passes (majority of CFG votes in favor of the proposal and quorum met), the proposal passes.
 
-For **technical proposals**, if it is a standalone proposal - i.e. not going to be part of a Runtime Upgrade - there will be two more steps. 
+### Onchain changes
+If the proposal requires an onchain modification such as adjusting any parameters or a runtime uprade, there are two more steps.
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
@@ -47,34 +48,38 @@ Tags: cp4, rfc
 ```
 ### Body of the RFC must contain:
 ```
-Uses component: CP4
-Author(s): Forum handle(s) of author(s)
-Contributor(s): Forum handle(s) of contributor(s)
-Technical/non-technical proposal: specify type
-Impacts/modifies: Link to CPs on GitHub that this CP impacts/modifies (if any)
-Date proposed: yyyy-mm-dd
+---
+cp: NUMBER
+title: Title
+uses-components: [cp4, cp1, cp2]
+authors: Forum handles and contact details of authors
+contributors: Forum handles and contact details of authors
+status: [rfc|prpoposed|passed|failed]
+impacts: list of CPs that it impacts or modifies
+requires-onchain: [yes|no]
+date proposed: YYYY-MM-DD
+---
 
-Short Summary 
-- One sentence summary of proposal
 
-High level objective 
+## Short Summary 
+One sentence summary of proposal
+
+## High level objective 
 - A short description of the objective that this proposal will achieve
 
-Background 
+## Background 
 - What are the historical and contextual factors that make this proposal relevant and aligned with the mission?
 
-Description of Activity 
+## Description of Activity 
 - Gives details on proposal, describe the new process or feature and the problem it is solving
 - Relevant data/calculations - provide all the necessary information (links to relevant pages, charts, calculations etc.) and make sure there is enough for the Community to make a qualified decision, based on it
 - Technical specifications, i.e. link(s) Github l (if relevant)
 
-Change or improvement 
+## Change or improvement 
 - What is the change or improvement that this proposal will bring?
 
-Responsible
-- Who is responsible for the implementation
 
-Alignment to the mission of Centrifuge DAO 
+## Alignment to the mission of Centrifuge DAO 
 - Explain why this is important and aligned with the mission
 ```
 **Important:** remember to update the Forum post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
