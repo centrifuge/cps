@@ -1,7 +1,7 @@
 ---
-proposal type:: CP4
-uses-components: [cp4, cp1, cp2]
-authors: @lucasvo (lucas@centrifuge.foundation)
+proposal-type: CP4
+uses-components: cp4, cp2
+authors: Lucas Vogelsang (@lucasvo, lucas@centrifuge.foundation)
 contributors:
 technical-proposal: no
 wallet:
@@ -55,13 +55,13 @@ There are several benefits of supplying liquidity as a lender:
 Creating access to instant liquidity on redemption
 The current redemption process for pools on Centrifuge usually looks as follows:
 
-# TODO add graphic
+![](./redemption_process.svg)
 
 Upon triggering a redemption there usually is a waiting period which even for the most liquid pool on Centrifuge today (currently Anemoy LTF) is during US market hours roughly 8 hours and more on weekends. Having 24/7 liquidity on these tokens is a huge benefit and looking at other products, something users are willing to pay a premium for.
 
 Generally, issuers try to offer better liquidity by keeping some cash balance in the pool which is not ideal because it reduces yield for everyone else. Or they try to maintain credit lines themselves which is also costly. An open lending market means anyone can provide liquidity in these instances and available liquidity follows supply and demand.
 
-# TODO
+![](./liquidity_on_redemption.svg)
 
 Centrifuge should create a mechanism by which tokens can be put into redemption and used as collateral. This would allow a very simple process for any owners of pool tokens to get instant liquidity for tokens they want to redeem.
 
