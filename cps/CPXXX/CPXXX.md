@@ -3,7 +3,7 @@ proposal type:: CP4
 uses-components: [cp4, cp1, cp2]
 authors: @lucasvo (lucas@centrifuge.foundation)
 contributors:
-technical/non-technical proposal: Non technical
+technical-proposal: no
 wallet:
 impacts:
 date-proposed:
