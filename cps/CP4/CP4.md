@@ -54,7 +54,7 @@ title: Title
 uses-components: [cp4, cp1, cp2]
 authors: Forum handles and contact details of authors
 contributors: Forum handles and contact details of authors
-status: [rfc|prpoposed|passed|failed]
+status: [rfc|voting|passed|failed]
 impacts: list of CPs that it impacts or modifies
 requires-onchain: [yes|no]
 date proposed: YYYY-MM-DD
