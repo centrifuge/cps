@@ -60,6 +60,8 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP104](./cps/CP104.md)  | Financial Reporting     |
+
 | | |
 
 
