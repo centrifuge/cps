@@ -61,9 +61,9 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP104](./cps/CP104.md)  | Financial Reporting     |
-
-| | |
-
+| [CP105](./cps/CP105/CP105.md)  | Data Protocol     |
+| [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
+| [CP108](./cps/CP108/CP108.md)  | Centrifuge Migration to OpenGov     |
 
 
 
