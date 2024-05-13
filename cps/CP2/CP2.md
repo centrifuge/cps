@@ -4,7 +4,7 @@ title: Centrifuge Proposal Framework
 authors: Governance and Coordination Group (ImdioR, Orhan)
 date-proposed: 2022-10-18
 date-passed: 2022-11-12
-date-modified: 2023-06-16
+date-modified: 2024-05-13
 status: passed
 ---
 
@@ -29,24 +29,31 @@ When creating a request for funding, make sure to provide the calculations for t
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content)|Minimum 7 days|
-|2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
+|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
+|2|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content)|Minimum 7 days|
 |3|Create an on-chain [Treasury proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/treasury)|-|
 
 ## TEMPLATE
 ```
-Title: RFC: [TITLE OF PROPOSAL]
+Title: CPXXX: [TITLE OF PROPOSAL]
 
 Tags: cp2, rfc
 ```
 ### Body of the RFC must contain:
 ```
-Uses component: CP2
-Author(s): Forum handle(s) of author(s)
-Beneficiary: Forum handle(s) of beneficiary
-Mandate: link to CP1 (only if mandate already obtained and relevant)
-Wallet: wallet address where fund should be transferred
-Date proposed: yyyy-mm-dd
+cp: [XXX]
+title:
+authors: [forum handles]
+contributors: [forum handles]
+beneficiary: [name]
+wallet: [wallet address]
+uses-component: [cp1|cp2|cp3|cp4|cp5|cp32|cp63]
+technical-proposal: [yes|no]
+requires-onchain: [yes|no]
+impacts/modifies:
+status: [rfc|voting|passed|rejected]
+date-proposed: [YYYY-MM-DD]
+date-ended: [YYYY-MM-DD]
 
 Short Summary 
 - One sentence summary of the funding sought
@@ -76,4 +83,4 @@ Budget
 Delivery and Reporting
 - A timeline of when the objective(s) will be delivered and how this will be reported
 ```
-**Important:** remember to update the Forum post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
+**Important:** remember to update the Forum post (tags, link to vote and outcome of the proposal) as the proposal progresses through the stages.

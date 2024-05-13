@@ -23,7 +23,7 @@ Runtime Upgrades may contain previously passed CP4s (General Improvements) - thi
 |3|Create a [Council motion](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/council/motions) or [public proposal](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffullnode.parachain.centrifuge.io#/democracy)|-|
 |4|Public referendum|Exactly 7 days|
 
-If the referendum vote passes, the Runtime Upgrade will be enacted. The Council can choose to fast track the referendum at their discretion.
+If the referendum vote passes, the Runtime Upgrade can be enacted. The Council can choose to fast-track the referendum at their discretion.
 
 ## TEMPLATE
 Note that this post is not an RFC. 
@@ -36,11 +36,17 @@ Tags: cp3, runtime-upgrade
 ```
 ### Body of the post must contain:
 ```
-Uses component: CP3
-Author(s): Forum handle(s) of author(s)
-Contributor(s): Forum handle(s) of contributor(s)
-Proposal on Proposal Repository (Github): INSERT LINK
-Date proposed: yyyy-mm-dd
+cp: [XXX]
+title:
+authors: [forum handles]
+contributors: [forum handles]
+uses-component: [cp1|cp2|cp3|cp4|cp5|cp32|cp63]
+technical-proposal: [yes|no]
+requires-onchain: [yes|no]
+impacts/modifies:
+status: [rfc|voting|passed|rejected]
+date-proposed: [YYYY-MM-DD]
+date-ended: [YYYY-MM-DD]
 
 List of content of this Runtime Upgrade
 - Added functionalities, changed parameters etc.
