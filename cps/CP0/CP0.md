@@ -34,7 +34,7 @@ In our proposal to become a core group in the Centrifuge DAO, and get a mandate 
 
 All proposals must be submitted to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (PR) on Github which is used to log all proposals. The discussion (RFC) takes place on the Forum, and if there are any changes made to the proposal, it must happen via the PR during the RFC phase, i.e. before the proposal proceeds to a snapshot vote/onchain vote. 
 
-This is to ensure that a proposal is not changed during a snapshot vote or after it has ended.
+This is to ensure that a proposal is not changed during a vote or after it has ended.
 A proposal is only deemed valid, if it has been submitted to the PR and been merged. Once merged, the proposal is final.
 
 After a proposal has been submitted, a pull request number (XXX) will automatically be assigned - this number will be used to index the proposal and in the title of the Forum post, using the prefix CPXXX. The Forum post must contain the link to the proposal on GitHub.
@@ -62,24 +62,15 @@ However, not all proposals require an offchain vote.
 - When a proposal does not require an onchain vote*, i.e. proposals that does not change anything onchain (e.g. mandate requests, changes to our governance process etc.)
 - When a proposal is not going to be followed by an onchain vote straight after, i.e. proposals that are going to be implemented later (e.g. part of a Runtime Upgrade)
 
-**If a proposal does not require an oncchain vote, the snapshot vote will be binding (i.e. if the snapshot vote passes, the proposal passes).*
+**If a proposal does not require an onchain vote, the snapshot vote will be binding (i.e. if the snapshot vote passes, the proposal passes).*
 
 **Snapshot voting is optional**
 
-- When a proposal is followed by an onchain vote right after the offchain vote
-
-**Snapshot voting is NOT required for**
-
-- Funding Requests (CP2)
-- Runtime Upgrades (CP3 and CP3.1)
-- POPs (CP5)
+In all other situations than the ones mentioned above, snapshot voting is optional. It can be used as a temperature check if the proposer want to get a sentiment around their proposal before submitting it to a vote.
 
 The minimum voting time for snapshots on OpenSquare is 7 days but the proposer could increase this to any amount of days, if they deem it necessary. This information has to be communicated to the community in the Forum post. 
 
-As soon as a proposal has moved on to a snapshot vote, the following changes must be made to the Forum post:
-
-- Change the prefix in the title of the Forum post from RFC to CPXXX (XXX is the pull request # from GitHub)
-- Update the original post with the link to the snapshot vote on OpenSquare 
+As soon as a proposal has moved on to a snapshot vote, it must be announced in the forum post with a link to the vote.
 
 The Governance & Coordination group will always aim to batch proposals on OpenSquare if possible, i.e. start them at the same time if there are multiple proposals ready to be submitted. However, if there are time sensitive/urgent proposals, we have the option to start the vote vote anytime.
 
@@ -122,7 +113,7 @@ These are the components in our CP Framework:
 |[CP32](../CP32.md)|Roadmap Proposals|Create a Roadmap Proposal to replace the previous one|
 |[CP63](../CP63.md)|Pool Types|Creating processes around any of the three different pool types|
 
-In general, the Governance process can be divided into two parts; *offchain* and *onchain Governance*.
+In general, the Governance process can be divided into two parts; *offchain* and *onchain* Governance.
 
 *Offchain Governance:*
 This refers to the part of the process that takes place on our Forum (Request For Comments) and OpenSquare (snapshot voting). The purpose of this is generally to get input from the Community on a proposal and gather support, before moving the proposal onchain (if necessary - not all proposals need to be submitted onchain in order to pass).
