@@ -66,7 +66,7 @@ However, not all proposals require an offchain vote.
 
 **Snapshot voting is optional**
 
-In all other situations than the ones mentioned above, snapshot voting is optional. It can be used as a temperature check if the proposer want to get a sentiment around their proposal before submitting it to a vote.
+In all other situations than the ones mentioned above, snapshot voting is optional. It can be used as a temperature check if the proposer wants to get a sentiment around their proposal before submitting it to a vote.
 
 The minimum voting time for snapshots on OpenSquare is 7 days but the proposer could increase this to any amount of days, if they deem it necessary. This information has to be communicated to the community in the Forum post. 
 
