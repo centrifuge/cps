@@ -25,8 +25,8 @@ These are proposals that do not require a change on the blockchain, and hence do
 
 |STEP|DESCRIPTION|DURATION|
 | --- | --- | :---: |
-|1|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content)|Minimum 7 days|
-|2|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
+|1|Submit proposal to the [Centrifuge Proposals Repository](https://github.com/centrifuge/cps) (on Github) to get a pull request #|-|
+|2|Create an RFC on the [Forum](https://gov.centrifuge.io/c/cfg-governance/chain-governance/18) (see template below for title, tags and content)|Minimum 7 days|
 |3|Create a snapshot vote on [OpenSquare](https://voting.opensquare.io/space/centrifuge)|Exactly 7 days|
 
 For proposals without any onchain changes or if the changes are to be implemented in a later runtime upgrade the process ends here and if the snapshot vote passes (majority of CFG votes in favor of the proposal and quorum met), the proposal passes.
@@ -43,23 +43,22 @@ Otherwise, the proposal will be in queue to be implemented in an upcoming Runtim
 
 ## TEMPLATE
 ```
-Title: RFC: [TITLE OF PROPOSAL]
+Title: CPXXX: [TITLE OF PROPOSAL]
 Tags: cp4, rfc
 ```
 ### Body of the RFC must contain:
 ```
----
-cp: NUMBER
-title: Title
-uses-components: [cp4, cp1, cp2]
-authors: Forum handles and contact details of authors
-contributors: Forum handles and contact details of authors
-status: [rfc|voting|passed|failed]
-impacts: list of CPs that it impacts or modifies
+cp: [XXX]
+title:
+authors: [forum handles]
+contributors: [forum handles]
+uses-component: [cp1|cp2|cp3|cp4|cp5|cp32|cp63]
+technical-proposal: [yes|no]
 requires-onchain: [yes|no]
-date proposed: YYYY-MM-DD
----
-
+impacts/modifies:
+status: [rfc|voting|passed|rejected]
+date-proposed: [YYYY-MM-DD]
+date-ended: [YYYY-MM-DD]
 
 ## Short Summary 
 One sentence summary of proposal
@@ -78,8 +77,7 @@ One sentence summary of proposal
 ## Change or improvement 
 - What is the change or improvement that this proposal will bring?
 
-
 ## Alignment to the mission of Centrifuge DAO 
 - Explain why this is important and aligned with the mission
 ```
-**Important:** remember to update the Forum post (title + content) as the proposal progresses through the steps, as explained [here](https://github.com/centrifuge/cps/blob/main/cps/CP0/CP0.md).
+**Important:** remember to update the Forum post (tags, link to vote and outcome of the proposal) as the proposal progresses through the stages.

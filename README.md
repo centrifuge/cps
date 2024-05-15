@@ -51,6 +51,10 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP94](./cps/CP94.md)  | Runtime Upgrade 1027    |
 | [CP95](./cps/CP95/CP95.md)  | POP: New Silver NS3    |
 | [CP98](./cps/CP98.md)  | Runtime Upgrade 1028    |
+| [CP104](./cps/CP104.md)  | Financial Reporting     |
+| [CP105](./cps/CP105/CP105.md)  | Data Protocol     |
+| [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
+| [CP108](./cps/CP108/CP108.md)  | Centrifuge Migration to OpenGov     |
 
 ## Rejected CPs
 |CP | Short title |
@@ -60,10 +64,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP104](./cps/CP104.md)  | Financial Reporting     |
-| [CP105](./cps/CP105/CP105.md)  | Data Protocol     |
-| [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
-| [CP108](./cps/CP108/CP108.md)  | Centrifuge Migration to OpenGov     |
+| | |
 
 
 
