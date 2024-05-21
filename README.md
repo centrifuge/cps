@@ -65,7 +65,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | | |
-
-
+| [CP103](./cps/CP103/CP103.md)  |  Launch an RWA Lending Market     |
+| [CP110](./cps/CP110.md)  | POP Anemoy DeFi Yield Fund 1   |
 
 
