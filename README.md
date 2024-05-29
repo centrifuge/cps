@@ -68,6 +68,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |---|-------------|
 | | |
 
-| [CP111](./cps/CP111.md)  | Integration of the network into tangem and production of 500 branded centrifuge wallets (2-card sets)    |
+| [CP112](./cps/CP112.md)  | Integration of the network into tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 
 
