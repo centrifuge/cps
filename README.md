@@ -67,7 +67,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | | |
-| [CP102](./cps/CP102.md)  | Listing CFG in HydraDX Omnipool & seeding initial liquidity    |
+| [CP102](./cps/CP102.md)  | Deposit additional CFG into HydraDX Omnipool    |
 | [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 
 
