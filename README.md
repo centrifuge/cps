@@ -55,6 +55,8 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP105](./cps/CP105/CP105.md)  | Data Protocol     |
 | [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
 | [CP108](./cps/CP108/CP108.md)  | Centrifuge Migration to OpenGov     |
+| [CP103](./cps/CP103/CP103.md)  |  Launch an RWA Lending Market     |
+| [CP110](./cps/CP110.md)  | POP Anemoy DeFi Yield Fund 1   |
 
 ## Rejected CPs
 |CP | Short title |
@@ -65,7 +67,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | | |
-| [CP103](./cps/CP103/CP103.md)  |  Launch an RWA Lending Market     |
-| [CP110](./cps/CP110.md)  | POP Anemoy DeFi Yield Fund 1   |
+| [CP102](./cps/CP102.md)  | Listing CFG in HydraDX Omnipool & seeding initial liquidity    |
+| [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 
 
