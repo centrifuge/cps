@@ -51,6 +51,8 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP94](./cps/CP94.md)  | Runtime Upgrade 1027    |
 | [CP95](./cps/CP95/CP95.md)  | POP: New Silver NS3    |
 | [CP98](./cps/CP98.md)  | Runtime Upgrade 1028    |
+| [CP102](./cps/CP102.md)  | Deposit additional CFG into HydraDX Omnipool    |
+| [CP103](./cps/CP103/CP103.md)  |  Launch an RWA Lending Market     |
 | [CP104](./cps/CP104.md)  | Financial Reporting     |
 | [CP105](./cps/CP105/CP105.md)  | Data Protocol     |
 | [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
@@ -60,14 +62,13 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
-| | |
+| [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
 | | |
-| [CP102](./cps/CP102.md)  | Deposit additional CFG into HydraDX Omnipool    |
-| [CP103](./cps/CP103/CP103.md)  |  Launch an RWA Lending Market     |
-| [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
+
+
 
 
