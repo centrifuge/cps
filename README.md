@@ -67,6 +67,8 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+
+| [CP116](./cps/CP116/CP116.md)  | CP Name   |
 | | |
 
 
