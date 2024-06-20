@@ -67,7 +67,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| | |
+| [CP117](./cps/CP117.md)  | Give a mandate to form the Treasury Advisory Group   |
 
 
 
