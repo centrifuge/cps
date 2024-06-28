@@ -67,7 +67,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| | |
+| [CP118](./cps/CP118.md)  | Runtime Upgrade 1103   |
 
 
 
