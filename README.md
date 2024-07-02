@@ -74,4 +74,3 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 
 
 
-
