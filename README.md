@@ -69,6 +69,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP116](./cps/CP116/CP116.md)  | RWA Lending Market Liquidity Bootstrap   |
+| [CP119](./cps/CP116/CP119.md)  | Runtime Upgrade 1300   |
 
 
 
