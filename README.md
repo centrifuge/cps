@@ -60,7 +60,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP110](./cps/CP110.md)  | POP Anemoy DeFi Yield Fund 1   |
 | [CP116](./cps/CP116/CP116.md)  | RWA Lending Market Liquidity Bootstrap   |
 | [CP118](./cps/CP118.md)  | Runtime Upgrade 1103   |
-| [CP119](./cps/CP116/CP119.md)  | Runtime Upgrade 1300   |
+| [CP119](./cps/CP119.md)  | Runtime Upgrade 1300   |
 
 ## Rejected CPs
 |CP | Short title |
@@ -70,6 +70,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
 
 
 
