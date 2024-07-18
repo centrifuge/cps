@@ -58,6 +58,9 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP107](./cps/CP107.md)  | Updated Treasury Spending Agreement     |
 | [CP108](./cps/CP108/CP108.md)  | Centrifuge Migration to OpenGov     |
 | [CP110](./cps/CP110.md)  | POP Anemoy DeFi Yield Fund 1   |
+| [CP116](./cps/CP116/CP116.md)  | RWA Lending Market Liquidity Bootstrap   |
+| [CP118](./cps/CP118.md)  | Runtime Upgrade 1103   |
+| [CP119](./cps/CP119.md)  | Runtime Upgrade 1300   |
 
 ## Rejected CPs
 |CP | Short title |
@@ -68,7 +71,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP117](./cps/CP117.md)  | Give a mandate to form the Treasury Advisory Group   |
-
-
-
-
+| [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
