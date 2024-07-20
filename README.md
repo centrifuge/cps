@@ -66,9 +66,9 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
+| [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
 | [CP117](./cps/CP117.md)  | Give a mandate to form the Treasury Advisory Group   |
-| [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
