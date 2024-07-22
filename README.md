@@ -70,10 +70,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP117](./cps/CP117.md)  | Give a mandate to form the Treasury Advisory Group   |
 | [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
-
-
-
-
-
-
