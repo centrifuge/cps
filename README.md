@@ -62,6 +62,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP117](./cps/CP117.md)  | Give a mandate to form the Treasury Advisory Group   |
 | [CP118](./cps/CP118.md)  | Runtime Upgrade 1103   |
 | [CP119](./cps/CP119.md)  | Runtime Upgrade 1300   |
+| [CP123](./cps/CP123.md)  | Runtime Upgrade 1400   |
 
 ## Rejected CPs
 |CP | Short title |
@@ -72,4 +73,3 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP123](./cps/CP123.md)  | Runtime Upgrade 1400   |
