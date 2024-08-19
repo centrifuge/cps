@@ -73,3 +73,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP126](./cps/CP126.md)  | CP126: Recovery lost tokens in bridge transaction   |
