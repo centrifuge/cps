@@ -63,14 +63,16 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP118](./cps/CP118.md)  | Runtime Upgrade 1103   |
 | [CP119](./cps/CP119.md)  | Runtime Upgrade 1300   |
 | [CP123](./cps/CP123.md)  | Runtime Upgrade 1400   |
+| [CP126](./cps/CP126.md)  | Recovery of lost tokens in bridge transaction   |
 
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
 | [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
-| [CP120](./cps/CP120.md)  | CP120: Fix incorrect Protocol Fees for Anemoy DYF   |
+| [CP120](./cps/CP120.md)  | Fix incorrect Protocol Fees for Anemoy DYF   |
 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP126](./cps/CP126.md)  | CP126: Recovery of lost tokens in bridge transaction   |
+
+
