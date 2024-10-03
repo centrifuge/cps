@@ -74,5 +74,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-
+| [CP128](./cps/CP128/CP128.md)  | Amendments to CP2 component   |
+| [CP130](./cps/CP130.md)  |  Goals and Themes for Resource Allocation for the Centrifuge Treasury   |
 
