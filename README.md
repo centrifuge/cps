@@ -76,4 +76,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |---|-------------|
 | [CP128](./cps/CP128/CP128.md)  | Amendments to CP2 component   |
 | [CP130](./cps/CP130.md)  |  Goals and Themes for Resource Allocation for the Centrifuge Treasury   |
+| [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
 
