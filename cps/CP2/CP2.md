@@ -17,13 +17,17 @@ received funding and wants to re-apply
 - The entity already created a proposal using the CP1 component (that passed) and wants to apply for funding
 - The entity doesn’t have a mandate but wants to apply for funding for a one time service
 
-The Treasury is administered by the Council so only the Council will vote on the proposal - token holders will not vote on it. 
+The Treasury is administered by the Council so only the Council will vote on the proposal - token holders will not vote on it.
 
 It is possible to make a Treasury proposal on behalf of someone else.
 
 A Treasury proposal can only be made if there are adequate funds in it to cover the funding request.
 
-When creating a request for funding, make sure to provide the calculations for the requested amount and how they will be distributed. You can see an example of how it can be done in [this post](https://gov.centrifuge.io/t/rfc-establishing-a-centrifuge-credit-group/3554).
+When creating a request for funding, make sure to provide the calculations for the requested amount and how they will be distributed. You can see an example of how it can be done in [this post](https://gov.centrifuge.io/t/cp117-give-a-mandate-to-form-the-treasury-advisory-group/6464).
+
+**If the request is above equivalent of $50,000, the milestone based funding process below will be followed.**
+![](../CP2/milestoneprocess.png)
+
 
 ## GOVERNANCE PROCESS
 
@@ -55,32 +59,63 @@ status: [rfc|voting|passed|rejected]
 date-proposed: [YYYY-MM-DD]
 date-ended: [YYYY-MM-DD]
 
-Short Summary 
-- One sentence summary of the funding sought
+Short Summary
+- One sentence summary describing the project for which funding is sought
 
-High level objective 
+High level objective
 - A short description of the objective that this proposal will achieve
 
-Background 
+Background of Proposal
 - What are the historical and contextual factors that make this proposal relevant and aligned with the mission?
 
-Description of Activity 
-- Give details on the activity and the problem it is solving
+Description of Activity
+- Provide a detailed description of the activity that will be undertaken
 
-Change or improvement 
+Goals and Themes 
+- Which goal(s) does this proposal help achieve? 
+- What theme(s) does this proposal support?
+
+
+Risk Assessment
+- Describe the potential risks of the project?
+- How do you plan to manage these risks?
+
+Sustainability
+- Describe how the project will be sustained after completion?
+- Will additional funding be needed in the future?
+
+Collaborations and Partnerships
+- Will the project involve cooperation with other groups or DAOs?
+
+Change or improvement
 - What is the change or improvement that this mandate will bring?
 
 Alignment to the mission of Centrifuge DAO
 - Explain why this is important and aligned with the mission
+- How will this project affect the DAO community?
 
 Description of Individual/Group seeking funding
-- Background of the member(s) of the group seeking funding
+- Detail the roles and responsibilities of each member
+- Provide backgrounds of each of the member(s) of the group seeking funding
+- Supply DIDs of each member
+- Supply evidence of work via social media links for each member
 
 Budget
-- What amount is requested and how is it calculated?
+- Describe in detail the amount requested and how is it calculated
 - How are the funds distributed within the group?
 
+Measurement and Evaluation
+- How will you measure the success of the project?
+- List the key performance indicators (KPIs).
+
 Delivery and Reporting
-- A timeline of when the objective(s) will be delivered and how this will be reported
+- Show a timeline of when the objective(s) will be delivered and how this will be reported
+
+Legal and Ethical Considerations
+- Does the project have any legal or ethical issues?
+- How will you address them?
 ```
+
+You can find more information about **Goals and Themes** in CP130 [here](https://github.com/centrifuge/cps/blob/main/cps/CP130.md#goal-and-themes).
+
 **Important:** remember to update the Forum post (tags, link to vote and outcome of the proposal) as the proposal progresses through the stages.
