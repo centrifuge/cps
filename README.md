@@ -64,6 +64,9 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP119](./cps/CP119.md)  | Runtime Upgrade 1300   |
 | [CP123](./cps/CP123.md)  | Runtime Upgrade 1400   |
 | [CP126](./cps/CP126.md)  | Recovery of lost tokens in bridge transaction   |
+| [CP128](./cps/CP128/CP128.md)  | Amendments to CP2 component   |
+| [CP130](./cps/CP130.md)  |  Goals and Themes for Resource Allocation for the Centrifuge Treasury   |
+| [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
 
 ## Rejected CPs
 |CP | Short title |
@@ -74,7 +77,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP128](./cps/CP128/CP128.md)  | Amendments to CP2 component   |
-| [CP130](./cps/CP130.md)  |  Goals and Themes for Resource Allocation for the Centrifuge Treasury   |
-| [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
+
 
