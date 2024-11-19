@@ -77,5 +77,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-
+| [CP134](./cps/CP134/CP134.md)  | CP134: Renewal RWA Lending Market Liquidity Bootstrap  |
 
