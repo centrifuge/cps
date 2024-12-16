@@ -68,6 +68,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP130](./cps/CP130.md)  |  Goals and Themes for Resource Allocation for the Centrifuge Treasury   |
 | [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
 | [CP134](./cps/CP134/CP134.md)  | Renewal RWA Lending Market Liquidity Bootstrap  |
+| [CP136](./cps/CP136.md)  | Resetting the Centrifuge council  |
 
 ## Rejected CPs
 |CP | Short title |
@@ -78,5 +79,3 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP136](./cps/CP136.md)  | Resetting the Centrifuge council  |
-
