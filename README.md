@@ -79,3 +79,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP139](./cps/CP139/CP139.md)  |   |
+
