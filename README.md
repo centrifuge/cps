@@ -79,5 +79,5 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP139](./cps/CP139/CP139.md)  |   |
+| [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
 
