@@ -82,5 +82,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
 | [CP140](./cps/CP140.md)  |  Renewal Treasury Advisory Group funding   |
 | [CP141](./cps/CP141/CP141.md)  |  Initiate the development of Centrifuge V3, a multi-chain, EVM based protocol    |
+| [CP143](./cps/CP143.md)  |  CP143: Change fee for Anemoy LTF    |
 
 
