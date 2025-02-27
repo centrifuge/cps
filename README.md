@@ -69,6 +69,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
 | [CP134](./cps/CP134/CP134.md)  | Renewal RWA Lending Market Liquidity Bootstrap  |
 | [CP136](./cps/CP136.md)  | Resetting the Centrifuge council  |
+| [CP141](./cps/CP141/CP141.md)  |  Initiate the development of Centrifuge V3, a multi-chain, EVM based protocol    |
 
 ## Rejected CPs
 |CP | Short title |
@@ -81,7 +82,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |---|-------------|
 | [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
 | [CP140](./cps/CP140.md)  |  Renewal Treasury Advisory Group funding   |
-| [CP141](./cps/CP141/CP141.md)  |  Initiate the development of Centrifuge V3, a multi-chain, EVM based protocol    |
 | [CP143](./cps/CP143.md)  |  Change fee for Anemoy LTF    |
 
 
