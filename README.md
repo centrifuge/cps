@@ -69,19 +69,20 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP131](./cps/CP131.md)  | Recovery of lost tokens in bridge transaction 2  |
 | [CP134](./cps/CP134/CP134.md)  | Renewal RWA Lending Market Liquidity Bootstrap  |
 | [CP136](./cps/CP136.md)  | Resetting the Centrifuge council  |
+| [CP140](./cps/CP140.md)  |  Renewal Treasury Advisory Group funding   |
 | [CP141](./cps/CP141/CP141.md)  |  Initiate the development of Centrifuge V3, a multi-chain, EVM based protocol    |
+| [CP143](./cps/CP143.md)  |  Change fee for Anemoy LTF    |
 
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
 | [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 | [CP120](./cps/CP120.md)  | Fix incorrect Protocol Fees for Anemoy DYF   |
+| [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
-| [CP140](./cps/CP140.md)  |  Renewal Treasury Advisory Group funding   |
-| [CP143](./cps/CP143.md)  |  Change fee for Anemoy LTF    |
+| [CP149](./cps/CP143.md)  |  Migration of Centrifuge Governance Token (CFG) to EVM|
 
 
