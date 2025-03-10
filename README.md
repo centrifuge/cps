@@ -86,3 +86,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP149](./cps/CP143.md)  |  Migration of Centrifuge Governance Token (CFG) to EVM|
 
 
+
