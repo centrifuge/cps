@@ -72,6 +72,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP140](./cps/CP140.md)  |  Renewal Treasury Advisory Group funding   |
 | [CP141](./cps/CP141/CP141.md)  |  Initiate the development of Centrifuge V3, a multi-chain, EVM based protocol    |
 | [CP143](./cps/CP143.md)  |  Change fee for Anemoy LTF    |
+| [CP149](./cps/CP149/CP149.md)  |  Migration of Centrifuge Governance Token (CFG) to EVM|
 
 ## Rejected CPs
 |CP | Short title |
@@ -83,4 +84,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP149](./cps/CP149/CP149.md)  |  Migration of Centrifuge Governance Token (CFG) to EVM|
+| [CP155](./cps/CP155.md)  |  CP155: Funding Request for ADE Tokenization Platform Development with Innowise
