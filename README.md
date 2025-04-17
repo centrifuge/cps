@@ -86,4 +86,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP155](./cps/CP155.md)  |  Funding Request for ADE Tokenization Platform Development with Innowise
-| [CP157](./cps/CP157.md)  |  Pool Onboarding Janus Henderson Anemoy AAA CLO Fund
+| [CP157](./cps/CP158.md)  |  Pool Onboarding Janus Henderson Anemoy AAA CLO Fund
