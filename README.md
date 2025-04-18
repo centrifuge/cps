@@ -74,6 +74,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP143](./cps/CP143.md)  |  Change fee for Anemoy LTF    |
 | [CP149](./cps/CP149/CP149.md)  |  Migration of Centrifuge Governance Token (CFG) to EVM|
 | [CP151](./cps/CP151.md)  |  New simplified onboarding to build on Centrifuge
+| [CP157](./cps/CP158.md)  |  Pool Onboarding Janus Henderson Anemoy AAA CLO Fund
 
 ## Rejected CPs
 |CP | Short title |
@@ -86,4 +87,3 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP155](./cps/CP155.md)  |  Funding Request for ADE Tokenization Platform Development with Innowise
-| [CP157](./cps/CP158.md)  |  Pool Onboarding Janus Henderson Anemoy AAA CLO Fund
