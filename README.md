@@ -87,3 +87,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP155](./cps/CP155.md)  |  Funding Request for ADE Tokenization Platform Development with Innowise
+| [CP159](./cps/CP159.md)  |  Runtime Upgrade 1550 
