@@ -89,4 +89,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP163](./cps/CP163.md)  |  AIR to CFG Token Swap Pre-Altair Chain Deprecation
+
 
