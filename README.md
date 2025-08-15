@@ -90,3 +90,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 |CP | Short title |
 |---|-------------|
 | [CP162](./cps/CP162.md)  |  Enable Protocol Revenue Through CNF-Managed Fee Flows
+| [CP163](./cps/CP163.md)  |  AIR to CFG Token Swap Pre-Altair Chain Deprecation
