@@ -85,10 +85,9 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP112](./cps/CP112.md)  | Integration of the network into Tangem and production of 500 branded centrifuge wallets (2-card sets)    |
 | [CP120](./cps/CP120.md)  | Fix incorrect Protocol Fees for Anemoy DYF   |
 | [CP139](./cps/CP139/CP139.md)  |  Florida Blockchain Business Association (FBBA) Enterprise Level Membership for the Centrifuge DAO    |
+| [CP163](./cps/CP163.md)  |  AIR to CFG Token Swap Pre-Altair Chain Deprecation
+
 
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
-| [CP163](./cps/CP163.md)  |  AIR to CFG Token Swap Pre-Altair Chain Deprecation
-
-
