@@ -78,6 +78,7 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 | [CP157](./cps/CP158.md)  |  Pool Onboarding Janus Henderson Anemoy AAA CLO Fund
 | [CP159](./cps/CP159.md)  |  Runtime Upgrade 1550 
 
+
 ## Rejected CPs
 |CP | Short title |
 |---|-------------|
