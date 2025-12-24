@@ -91,3 +91,6 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP164](./cps/CP164.md)  |  DAO Marketing Q4 ‘25 Pilot Funding
+| [CP166](./cps/CP166.md)  |  CFG Migration to Ethereum for Institutional Holders
+| [CP168](./cps/CP168.md)  |  Renewal Treasury Advisory Group funding 
