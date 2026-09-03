@@ -91,3 +91,4 @@ This repository contains all submitted Centrifuge Proposals. The genesis proposa
 ## Proposed CPs
 |CP | Short title |
 |---|-------------|
+| [CP172](./cps/CP172.md)  |  Exploring Token-to-Equity to Maximize Long-Term CFG Value
